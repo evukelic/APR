@@ -1,0 +1,38 @@
+### Task 3 Analytics ###
+
+### Function 6 - FLOATING POINT ###
+### DIMENSION: 3 ###
+Number of found optimums: 0
+Median: 0.009715909877514362
+
+### DIMENSION: 6 ###
+Number of found optimums: 0
+Median: 0.009935539554243089
+
+### Function 6 - BINARY ###
+### DIMENSION: 3 ###
+Number of found optimums: 0
+Median: 0.009715912783396508
+
+### DIMENSION: 6 ###
+Number of found optimums: 0
+Median: 0.08144197120018307
+
+
+### Function 7 - FLOATING POINT ###
+### DIMENSION: 3 ###
+Number of found optimums: 0
+Median: 0.054966156909569644
+
+### DIMENSION: 6 ###
+Number of found optimums: 0
+Median: 0.6045147155549223
+
+### Function 7 - BINARY ###
+### DIMENSION: 3 ###
+Number of found optimums: 0
+Median: 0.17183219379937026
+
+### DIMENSION: 6 ###
+Number of found optimums: 0
+Median: 2.6946210541869995

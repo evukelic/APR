@@ -1,0 +1,9 @@
+
+### Tournament size: 3 
+Optimum median: 5.06270170314016e-07
+
+### Tournament size: 4 
+Optimum median: 5.062382925080655e-07
+
+### Tournament size: 5 
+Optimum median: 7.645390227017934e-07

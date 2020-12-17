@@ -1,0 +1,1326 @@
+Iteration: 1     Current best unit: [-8.271210177442015, 5.3668884662734655]     Function evaluation: 0.23222730912032347
+Iteration: 17     Current best unit: [-4.7400668236023975, -3.515564467782184]     Function evaluation: 0.1626672486748983
+Iteration: 170     Current best unit: [-6.155089875712514, -0.15785975025621568]     Function evaluation: 0.05053446379386295
+Iteration: 2445     Current best unit: [-2.4917611462795257, 5.65760337448232]     Function evaluation: 0.045595838235234054
+Iteration: 2455     Current best unit: [-3.1259227347490364, -0.07895100025449153]     Function evaluation: 0.00984720417667756
+Iteration: 3289     Current best unit: [2.2395801204643386, -2.188719496612115]     Function evaluation: 0.009763975399103897
+Iteration: 5990     Current best unit: [-0.7039975994644944, -3.0587625963802734]     Function evaluation: 0.009715970054620549
+
+
+Iteration: 1     Current best unit: [-6.378265371350778, 14.089651838469749]     Function evaluation: 0.21175213964945344
+Iteration: 877     Current best unit: [-15.070288245508015, 3.6520083417278286]     Function evaluation: 0.2010831753957194
+Iteration: 1274     Current best unit: [-9.026738225195057, -8.99163928106708]     Function evaluation: 0.15223660092594427
+Iteration: 2202     Current best unit: [5.911182926095918, 2.657388521467972]     Function evaluation: 0.07508191707862477
+Iteration: 3140     Current best unit: [5.893250391565232, 2.4241549783299945]     Function evaluation: 0.04558457521574677
+Iteration: 4225     Current best unit: [-2.315789983992372, -2.36124673967931]     Function evaluation: 0.03739093663012166
+Iteration: 4750     Current best unit: [3.0440433936086393, -0.4110294470328846]     Function evaluation: 0.014093914239510619
+Iteration: 8794     Current best unit: [-3.1638294546124186, 0.43906361381253234]     Function evaluation: 0.012752812347570086
+Iteration: 9325     Current best unit: [-3.088588829234574, 0.22670903432156608]     Function evaluation: 0.011413071070233982
+Iteration: 9475     Current best unit: [-3.1607878173770647, -0.17515092782861208]     Function evaluation: 0.010439211963543804
+Iteration: 11674     Current best unit: [-0.6069436409210546, -3.0808807646089384]     Function evaluation: 0.00971845986864106
+Iteration: 15101     Current best unit: [-1.003078352014039, -2.973968845433632]     Function evaluation: 0.009715917968437182
+Iteration: 30622     Current best unit: [-0.04802003468062648, 0.05165799501576629]     Function evaluation: 0.004971154217600748
+Iteration: 44392     Current best unit: [-0.02185477065658771, 0.0015019366852189187]     Function evaluation: 0.00048028948134531957
+Iteration: 97575     Current best unit: [-0.019839749114911508, -0.009001001891489595]     Function evaluation: 0.00047503277522786824
+Iteration: 97596     Current best unit: [-0.007562675257784962, -0.020026958733383518]     Function evaluation: 0.0004586609855399826
+Iteration: 98132     Current best unit: [-0.010891998771987037, -0.01832895274972824]     Function evaluation: 0.00045497144007283774
+Iteration: 98273     Current best unit: [-0.012881531975145365, -0.015316123475680787]     Function evaluation: 0.00040086423225871304
+Iteration: 99836     Current best unit: [-0.01927227958094567, -0.004222626721758073]     Function evaluation: 0.0003895897818799732
+
+
+Iteration: 1     Current best unit: [-21.62256292344493, 0.3956221979913863]     Function evaluation: 0.32702467913478017
+Iteration: 305     Current best unit: [9.210754652285672, -12.235724127024895]     Function evaluation: 0.2681237667012043
+Iteration: 490     Current best unit: [-9.438171323631096, 2.13700469031388]     Function evaluation: 0.13406286726739486
+Iteration: 909     Current best unit: [-6.698167127331306, -10.58338901661071]     Function evaluation: 0.12769062813129883
+Iteration: 1092     Current best unit: [-5.881931083723593, 1.1038615364993518]     Function evaluation: 0.11462549195618249
+Iteration: 1331     Current best unit: [-2.4879941544338564, 1.7853793580125763]     Function evaluation: 0.015405201661176704
+Iteration: 10938     Current best unit: [-1.1842680834608785, 2.9193806373460323]     Function evaluation: 0.0098561871969996
+Iteration: 20322     Current best unit: [-2.544720100580797, 1.8171679818914654]     Function evaluation: 0.009846936882076052
+Iteration: 26651     Current best unit: [2.27290402324738, 2.170030537127372]     Function evaluation: 0.009731507413515084
+Iteration: 64740     Current best unit: [-2.42543723440905, 1.9957101416525516]     Function evaluation: 0.00972190396441941
+Iteration: 73186     Current best unit: [-2.832176720036538, 1.355329197012621]     Function evaluation: 0.009717525684626582
+Iteration: 82128     Current best unit: [-2.363008250300722, 2.064998418813425]     Function evaluation: 0.009716015660058752
+
+
+Iteration: 1     Current best unit: [7.2681450412904525, -24.388705793269395]     Function evaluation: 0.35137782204093204
+Iteration: 54     Current best unit: [25.91489589869265, -11.135034522391777]     Function evaluation: 0.34636852289231657
+Iteration: 138     Current best unit: [0.9261174044033567, 6.714486854889181]     Function evaluation: 0.24912675189139777
+Iteration: 194     Current best unit: [-6.325436403977712, -1.4834853809876591]     Function evaluation: 0.08115840011028946
+Iteration: 689     Current best unit: [0.2513828540288614, 6.382441374443637]     Function evaluation: 0.04841893618102089
+Iteration: 4990     Current best unit: [-2.8930147676500937, -1.2423427772371411]     Function evaluation: 0.00981403354400362
+Iteration: 51648     Current best unit: [-3.125725610289229, -0.26867649930946413]     Function evaluation: 0.00971740266102461
+Iteration: 77106     Current best unit: [-3.0475321878741894, 0.7499869813278437]     Function evaluation: 0.009715910468857392
+
+
+Iteration: 1     Current best unit: [-4.497285385788707, 4.989296934624932]     Function evaluation: 0.20402461743061961
+Iteration: 2161     Current best unit: [-3.53660843738637, 5.685162005729622]     Function evaluation: 0.1890330240727423
+Iteration: 3981     Current best unit: [11.800240195437965, 4.808546977565999]     Function evaluation: 0.1526194722571888
+Iteration: 4499     Current best unit: [-12.030120910918273, -4.162608067216286]     Function evaluation: 0.14936381125642834
+Iteration: 5564     Current best unit: [11.69378875855088, 4.609054197488289]     Function evaluation: 0.12713276835871645
+Iteration: 5692     Current best unit: [-1.9715863493681316, 2.75306043437236]     Function evaluation: 0.0686087205952901
+Iteration: 6290     Current best unit: [5.474530790296983, 2.7635579581524783]     Function evaluation: 0.05651449558405491
+Iteration: 6497     Current best unit: [-1.427133350933567, 3.029714062156378]     Function evaluation: 0.05250348256288151
+Iteration: 7077     Current best unit: [-0.6658504284568361, 3.1015991396014817]     Function evaluation: 0.010835316686163887
+Iteration: 8164     Current best unit: [-0.8782141249394979, 2.9917185025501656]     Function evaluation: 0.010129646790954128
+Iteration: 11882     Current best unit: [2.8826096835567263, -1.239626642977429]     Function evaluation: 0.009716303427139805
+Iteration: 21745     Current best unit: [-0.02863948584408802, -0.016163575685922638]     Function evaluation: 0.001082170658511017
+Iteration: 87673     Current best unit: [-0.022642933921497823, 0.02283712260779132]     Function evaluation: 0.0010349122227455987
+Iteration: 87714     Current best unit: [-0.024627978715480035, 0.01999676779761005]     Function evaluation: 0.0010070748657100004
+Iteration: 88362     Current best unit: [-0.029533050702562, 0.01151446243881266]     Function evaluation: 0.0010054502078013505
+Iteration: 88563     Current best unit: [-0.03003658491096326, 0.010033982553461562]     Function evaluation: 0.0010035428944508151
+Iteration: 88865     Current best unit: [-0.028563272750822245, 0.013626509206637584]     Function evaluation: 0.0010022075210126546
+Iteration: 88887     Current best unit: [-0.015670205187202302, 0.02338288378476784]     Function evaluation: 0.000792896411123234
+Iteration: 90150     Current best unit: [-0.018108730330469926, 0.020270961897357026]     Function evaluation: 0.0007393938135131783
+Iteration: 90301     Current best unit: [-0.013963598989394824, 0.022504596757841073]     Function evaluation: 0.000701975436195601
+Iteration: 90937     Current best unit: [-0.0052590088077113465, 0.02448015366122701]     Function evaluation: 0.0006274302405734344
+Iteration: 91184     Current best unit: [-0.007310776245104686, 0.02380846459363122]     Function evaluation: 0.0006207817133087046
+Iteration: 91291     Current best unit: [-0.022037414918096056, 0.00897550490661815]     Function evaluation: 0.0005666660548863667
+Iteration: 91813     Current best unit: [-0.017901370292037106, 0.015414682855970334]     Function evaluation: 0.0005585251472728925
+Iteration: 92254     Current best unit: [-0.01060565154776064, 0.020223196598876655]     Function evaluation: 0.0005218878057907106
+Iteration: 92929     Current best unit: [-0.006869061920154011, 0.020710657535792303]     Function evaluation: 0.00047651545179089316
+Iteration: 93208     Current best unit: [-0.019233676996695218, 0.007198322018106292]     Function evaluation: 0.0004221122771625452
+Iteration: 95721     Current best unit: [-0.016783940474476653, 0.010801511259802703]     Function evaluation: 0.0003987184614318018
+Iteration: 96124     Current best unit: [-0.018917566924322286, 0.004399150606288413]     Function evaluation: 0.00037755637549635734
+Iteration: 96527     Current best unit: [-0.011864551577645982, 0.014355278077021746]     Function evaluation: 0.0003471480958069373
+Iteration: 97398     Current best unit: [-0.018127511791553346, 0.0024201263664420944]     Function evaluation: 0.000334760648211585
+Iteration: 97615     Current best unit: [-0.009868105193187595, 0.015226060577248622]     Function evaluation: 0.0003295052909728091
+Iteration: 97686     Current best unit: [-0.011578500971517983, 0.01348281771743533]     Function evaluation: 0.0003161304548272015
+Iteration: 98594     Current best unit: [-0.016691633375243323, 0.005075909996114961]     Function evaluation: 0.00030464879687447377
+Iteration: 99165     Current best unit: [-0.006773250550670365, 0.015571601292781909]     Function evaluation: 0.0002886121606311409
+Iteration: 99413     Current best unit: [-0.007375246906792152, 0.014504452416478424]     Function evaluation: 0.00026501467244816057
+Iteration: 99766     Current best unit: [-0.014659163095306144, 0.005869788512405031]     Function evaluation: 0.0002495739771853356
+
+
+Iteration: 1     Current best unit: [-14.62327611606731, 5.138986190778041]     Function evaluation: 0.20266699255234943
+Iteration: 578     Current best unit: [-0.040785992318998154, -6.15531020867148]     Function evaluation: 0.050905597748021725
+Iteration: 4817     Current best unit: [-6.275412551410281, -1.1082899978136291]     Function evaluation: 0.04561455325088909
+Iteration: 4979     Current best unit: [-4.821539066413613, 4.096962986946901]     Function evaluation: 0.03953335979145611
+Iteration: 5119     Current best unit: [-3.1507978205786746, 5.418660799935615]     Function evaluation: 0.03729946117166327
+Iteration: 6930     Current best unit: [-3.766708507695271, 5.02985995015246]     Function evaluation: 0.03726651310880008
+Iteration: 7757     Current best unit: [1.096833114170902, 2.834520275697693]     Function evaluation: 0.019341760659627616
+Iteration: 8210     Current best unit: [0.39190580959787147, 3.194734851091437]     Function evaluation: 0.01601128930574458
+Iteration: 8838     Current best unit: [-2.9089867566782974, -1.2055935686546257]     Function evaluation: 0.009822660021850893
+Iteration: 15432     Current best unit: [2.1980602213003024, 2.243007425249096]     Function evaluation: 0.00971977758320236
+Iteration: 20971     Current best unit: [2.180763028799292, 2.255433214344468]     Function evaluation: 0.00971726746077145
+Iteration: 21137     Current best unit: [2.5725507904646228, 1.7976484410273161]     Function evaluation: 0.009715916862102603
+
+
+Iteration: 1     Current best unit: [-0.9275902928693966, -15.85168347132555]     Function evaluation: 0.19952545617697265
+Iteration: 144     Current best unit: [2.1081703633709665, 12.45645154910899]     Function evaluation: 0.13152204966292874
+Iteration: 222     Current best unit: [5.914073456624244, 7.230452840080574]     Function evaluation: 0.08294559082739023
+Iteration: 5058     Current best unit: [1.7806040911513792, 9.28598151778119]     Function evaluation: 0.07947373114003109
+Iteration: 5900     Current best unit: [4.7186483732037665, 3.8595690920555796]     Function evaluation: 0.06736275713796636
+Iteration: 10468     Current best unit: [-1.9588213855675456, 5.988054127510331]     Function evaluation: 0.037720469612268215
+Iteration: 20643     Current best unit: [4.297441117980282, 4.555884947816938]     Function evaluation: 0.03741178902792691
+Iteration: 23359     Current best unit: [-0.610484464264278, 2.9637760388785166]     Function evaluation: 0.02209497077513406
+Iteration: 26525     Current best unit: [-3.0497215227990675, -0.62564738566995]     Function evaluation: 0.010341672300168803
+Iteration: 40306     Current best unit: [-0.24434518782152936, 3.1145206299340793]     Function evaluation: 0.009919286951275086
+Iteration: 42338     Current best unit: [-0.9725461643916339, 2.9797729529760457]     Function evaluation: 0.009731743529700798
+Iteration: 51834     Current best unit: [-0.521339869435146, 3.092725173679415]     Function evaluation: 0.009720348065979378
+Iteration: 55879     Current best unit: [-1.6102798275057837, 2.693950893306496]     Function evaluation: 0.009715911908998343
+
+
+Iteration: 1     Current best unit: [-12.402795683037482, 3.0265852924902887]     Function evaluation: 0.1596135343663314
+Iteration: 148     Current best unit: [-1.9805887464698273, -12.32609612664615]     Function evaluation: 0.13079086808154994
+Iteration: 1050     Current best unit: [1.4316211487257462, 6.225433484826404]     Function evaluation: 0.04852691484755056
+Iteration: 2960     Current best unit: [-6.203736557710805, 1.4918156735515424]     Function evaluation: 0.04708536490391485
+Iteration: 8211     Current best unit: [0.22890492011215713, -3.18370473218377]     Function evaluation: 0.012514979966517126
+Iteration: 19876     Current best unit: [2.3231811611329007, -2.1598697480804674]     Function evaluation: 0.010824214899221196
+Iteration: 41824     Current best unit: [1.860867823017594, -2.507271167272272]     Function evaluation: 0.009970600556525211
+Iteration: 62512     Current best unit: [1.7116474307203902, -2.6480634991113092]     Function evaluation: 0.009925250026521504
+
+
+Iteration: 1     Current best unit: [-15.916481287026784, 2.0196012334576565]     Function evaluation: 0.25257319458855026
+Iteration: 961     Current best unit: [-12.962867182112685, -9.243221210792026]     Function evaluation: 0.2101791618934304
+Iteration: 2858     Current best unit: [-2.5563677049307074, 5.580153419560167]     Function evaluation: 0.05512672213992548
+Iteration: 3028     Current best unit: [-3.115308866270045, 0.3298092902525198]     Function evaluation: 0.009748551409076489
+Iteration: 17284     Current best unit: [2.778903699596252, -1.4685246779998975]     Function evaluation: 0.00973651857621699
+Iteration: 17291     Current best unit: [0.2684763788130857, -3.1245963589804306]     Function evaluation: 0.009721448689113676
+Iteration: 18058     Current best unit: [2.9715395867581607, -1.0164476694607387]     Function evaluation: 0.009720199412138864
+Iteration: 18428     Current best unit: [2.93079081294549, -1.1248500061752977]     Function evaluation: 0.009716468364431685
+Iteration: 70003     Current best unit: [-0.05660104787376952, -0.028122772236806166]     Function evaluation: 0.00399321558492588
+Iteration: 81472     Current best unit: [0.004164113858998064, -0.027875241488292707]     Function evaluation: 0.0007949517201489287
+
+
+Iteration: 1     Current best unit: [0.9663458313742694, -9.187686966824792]     Function evaluation: 0.10470312786287933
+Iteration: 2306     Current best unit: [0.5545860656650987, 6.13818701048061]     Function evaluation: 0.04922564664354906
+Iteration: 6813     Current best unit: [-5.568129412204193, 2.651613820371871]     Function evaluation: 0.04838585211470148
+Iteration: 7944     Current best unit: [2.9029413074461297, 0.8713880905595655]     Function evaluation: 0.02104199632948983
+Iteration: 10410     Current best unit: [0.33580232479980343, 3.065193641706813]     Function evaluation: 0.01267828384049402
+Iteration: 17409     Current best unit: [0.9608264072802559, 2.9827395131948697]     Function evaluation: 0.009738613252487094
+Iteration: 20236     Current best unit: [2.10266439815526, 2.3318321762362837]     Function evaluation: 0.00971773103265472
+Iteration: 21612     Current best unit: [2.074473920743793, 2.3547485083703794]     Function evaluation: 0.009715990995572965
+
+
+Iteration: 1     Current best unit: [14.707916805431125, 4.461623524801169]     Function evaluation: 0.24487293766349555
+Iteration: 469     Current best unit: [-0.4175603660691465, 3.254945067384257]     Function evaluation: 0.029664255366648906
+Iteration: 1141     Current best unit: [2.186576337694703, 2.1494680281652663]     Function evaluation: 0.014844595017895812
+Iteration: 4830     Current best unit: [3.010629397605122, -0.6524067867758916]     Function evaluation: 0.013013205510361225
+Iteration: 7011     Current best unit: [-2.5911718510962047, 1.8535350997673978]     Function evaluation: 0.011917280736973512
+Iteration: 10465     Current best unit: [-2.988434737412085, 0.8752164134763234]     Function evaluation: 0.010306292798774597
+Iteration: 12458     Current best unit: [-3.0008396773799433, 0.9720065721655011]     Function evaluation: 0.009962482618280144
+Iteration: 24538     Current best unit: [1.7895007765190876, 2.5975032051138167]     Function evaluation: 0.009960025269750927
+Iteration: 29538     Current best unit: [3.0863795357248724, -0.6450998174355991]     Function evaluation: 0.009924864731045702
+Iteration: 37737     Current best unit: [-2.886609873592846, 1.2241228385165033]     Function evaluation: 0.009725001188303772
+Iteration: 40618     Current best unit: [-2.582520543067634, -1.78095774680043]     Function evaluation: 0.009717868216629122
+
+
+Iteration: 1     Current best unit: [-4.340090554945306, -15.026932041630637]     Function evaluation: 0.18011925392245504
+Iteration: 505     Current best unit: [-9.10943263491972, -0.021490329732287705]     Function evaluation: 0.1556891443854697
+Iteration: 631     Current best unit: [2.164104367479112, -1.808614405527706]     Function evaluation: 0.10598243272839569
+Iteration: 1269     Current best unit: [-9.412024117473237, 0.08869608373365168]     Function evaluation: 0.07820066682405907
+Iteration: 1900     Current best unit: [-8.035643657025027, 4.901719627622981]     Function evaluation: 0.0781992696437675
+Iteration: 4578     Current best unit: [2.7788925770637647, -1.095237359204802]     Function evaluation: 0.032114471160425984
+Iteration: 8508     Current best unit: [2.2919550615501123, 1.9690802009991089]     Function evaluation: 0.023067580310016877
+Iteration: 9907     Current best unit: [1.164290394321398, -2.85995483345859]     Function evaluation: 0.01222986105801016
+Iteration: 11167     Current best unit: [2.89949746641571, 1.2732797448283577]     Function evaluation: 0.010499889692776265
+Iteration: 21625     Current best unit: [-2.826566794391198, 1.3587243802803712]     Function evaluation: 0.009721133735550391
+
+
+Iteration: 1     Current best unit: [-0.10332176191616327, 3.35370382682256]     Function evaluation: 0.05505255013646343
+Iteration: 4074     Current best unit: [3.0530794770161336, 0.14372535307489898]     Function evaluation: 0.016309418800192543
+Iteration: 8281     Current best unit: [-0.1354067613146699, -3.167608836283297]     Function evaluation: 0.010721470818988055
+Iteration: 11417     Current best unit: [-0.07737514118255162, -3.1565910761533824]     Function evaluation: 0.010072185930845912
+Iteration: 11439     Current best unit: [2.4851615589063827, -1.8989866046560626]     Function evaluation: 0.009831199953518832
+Iteration: 11982     Current best unit: [0.3976226829349758, -3.1053966129648827]     Function evaluation: 0.009774645428617723
+Iteration: 12445     Current best unit: [-1.1575843825019227, -2.915747640588494]     Function evaluation: 0.0097177110493471
+Iteration: 13673     Current best unit: [-0.2366924025013345, -3.1297490517174316]     Function evaluation: 0.009715949768400844
+
+
+Iteration: 1     Current best unit: [-13.100036195057221, -20.955321733583745]     Function evaluation: 0.3712702897766482
+Iteration: 112     Current best unit: [-1.7436475052181493, -3.3391250793588725]     Function evaluation: 0.34706797584773286
+Iteration: 448     Current best unit: [4.597040526900287, -8.594685635179978]     Function evaluation: 0.16656557593621507
+Iteration: 708     Current best unit: [9.577883730572754, -0.812247157413637]     Function evaluation: 0.11011625552532794
+Iteration: 3133     Current best unit: [2.9724452890801416, -1.1834893263077153]     Function evaluation: 0.013350243280218388
+Iteration: 5921     Current best unit: [3.054057583134265, -0.8090581501022172]     Function evaluation: 0.010145373732712293
+Iteration: 7180     Current best unit: [0.916694256529084, 2.991930020884851]     Function evaluation: 0.009800296352559357
+Iteration: 12170     Current best unit: [2.5443301283032183, -1.8405516096406855]     Function evaluation: 0.009719010279310603
+Iteration: 12305     Current best unit: [3.1363366667868138, -0.0937536395670675]     Function evaluation: 0.009716457880633467
+Iteration: 41700     Current best unit: [0.06512011171098209, -0.021782500917751302]     Function evaluation: 0.00471237088909382
+
+
+Iteration: 1     Current best unit: [-15.190821518088967, -2.644988465436903]     Function evaluation: 0.22650790579224545
+Iteration: 47     Current best unit: [-15.377058458270469, -1.3682368117832624]     Function evaluation: 0.22038506925410967
+Iteration: 115     Current best unit: [10.43392920090458, -11.803946202809534]     Function evaluation: 0.18045741605340387
+Iteration: 992     Current best unit: [-3.520880930445273, 5.235078545364311]     Function evaluation: 0.03815947989550278
+Iteration: 1601     Current best unit: [5.829164902424798, 2.371440111876984]     Function evaluation: 0.037459300214794655
+Iteration: 7275     Current best unit: [1.0351759531485374, 3.1098645145108104]     Function evaluation: 0.028575092689431425
+Iteration: 19666     Current best unit: [1.3900487773013506, -2.8805012373440495]     Function evaluation: 0.013229164217955725
+Iteration: 23040     Current best unit: [2.940424957873809, -1.2077206458034444]     Function evaluation: 0.011308837973084962
+Iteration: 32703     Current best unit: [2.725257218652987, -1.5493391263035776]     Function evaluation: 0.009728658498369458
+Iteration: 61551     Current best unit: [1.2630734834785697, -2.872678603739562]     Function evaluation: 0.009716059432233248
+Iteration: 76092     Current best unit: [0.028140228310256532, -0.04707964323343261]     Function evaluation: 0.003008339981691699
+
+
+Iteration: 1     Current best unit: [19.316322878808492, 15.745679945728995]     Function evaluation: 0.32656411046608635
+Iteration: 46     Current best unit: [-14.671876992229606, -15.967802403612794]     Function evaluation: 0.3107389438924343
+Iteration: 96     Current best unit: [11.309734119954975, 6.167194861517245]     Function evaluation: 0.20305264801552297
+Iteration: 99     Current best unit: [8.23951761273318, 5.1839874922277716]     Function evaluation: 0.16039862598840948
+Iteration: 706     Current best unit: [-11.273119037927955, 5.123549634488086]     Function evaluation: 0.14915848684734678
+Iteration: 868     Current best unit: [-2.624740145871975, 5.9013017642151055]     Function evaluation: 0.06733529966501611
+Iteration: 1274     Current best unit: [3.2580664309847194, 0.3559962263134153]     Function evaluation: 0.02852928042865105
+Iteration: 10255     Current best unit: [-3.1545555677508617, -0.3881758423213384]     Function evaluation: 0.011274397815764947
+Iteration: 25404     Current best unit: [3.1722724494780437, -0.12151964601003584]     Function evaluation: 0.010995157170171133
+Iteration: 47550     Current best unit: [0.007587386188269818, 0.008366939208116264]     Function evaluation: 0.00012769621745162274
+
+
+Iteration: 1     Current best unit: [-9.901014014485774, -8.05904899061278]     Function evaluation: 0.15948047468399723
+Iteration: 289     Current best unit: [8.877801903470399, -2.674165792053491]     Function evaluation: 0.09571403721318805
+Iteration: 6691     Current best unit: [6.480542295710121, 0.7794924385835016]     Function evaluation: 0.09374978771065767
+Iteration: 6710     Current best unit: [7.579611726946271, -5.469273101556998]     Function evaluation: 0.0822434593109484
+Iteration: 7004     Current best unit: [7.881092110658148, -5.118241665438944]     Function evaluation: 0.07849080163747274
+Iteration: 7076     Current best unit: [-0.12958631274205246, -3.007789309285977]     Function evaluation: 0.025703083160469598
+Iteration: 8772     Current best unit: [-3.010508167482063, 0.6868097567944258]     Function evaluation: 0.012230611782615142
+Iteration: 10254     Current best unit: [-1.2732745716748157, 2.8540713614968447]     Function evaluation: 0.009888831673144804
+Iteration: 13775     Current best unit: [2.8086721554476015, 1.4182679809355654]     Function evaluation: 0.009778118225983012
+Iteration: 14951     Current best unit: [-2.921979542152036, 1.1504784201335458]     Function evaluation: 0.0097191900244597
+Iteration: 15031     Current best unit: [-2.891328410510685, 1.2197871074112494]     Function evaluation: 0.009716056567145859
+Iteration: 36740     Current best unit: [0.0290892838096308, -0.058236573827027224]     Function evaluation: 0.0042359041466053515
+Iteration: 86791     Current best unit: [0.03530166903523385, -0.05192341649640502]     Function evaluation: 0.003940982481198063
+Iteration: 86847     Current best unit: [0.04217997691651493, -0.044490274083967045]     Function evaluation: 0.0037575587343861017
+Iteration: 87169     Current best unit: [0.042610969052078285, -0.04123627046996301]     Function evaluation: 0.0035154969820618276
+Iteration: 87191     Current best unit: [0.041572174928107906, -0.04159064522499548]     Function evaluation: 0.0034574774724551727
+Iteration: 87397     Current best unit: [0.04543174452545957, -0.03600786604592726]     Function evaluation: 0.003360184978991987
+Iteration: 87699     Current best unit: [0.0009480560502283138, -0.057735651186751585]     Function evaluation: 0.0033339120910030884
+Iteration: 88128     Current best unit: [0.01250375990616974, -0.055658684105315465]     Function evaluation: 0.0032539377085951116
+Iteration: 88164     Current best unit: [0.047324756711144264, -0.02941085162228991]     Function evaluation: 0.003104504568726074
+Iteration: 88223     Current best unit: [0.046872251269270096, -0.01978623241845879]     Function evaluation: 0.002588845357717029
+Iteration: 88806     Current best unit: [0.01980893962649824, -0.04672444232611272]     Function evaluation: 0.0025759194781825867
+Iteration: 89803     Current best unit: [0.01151705915299149, -0.04910939944898684]     Function evaluation: 0.002544749977765326
+Iteration: 90184     Current best unit: [0.02138843951024099, -0.04290995760940023]     Function evaluation: 0.0022992571219487834
+Iteration: 90210     Current best unit: [0.024589681357593693, -0.038634350842182114]     Function evaluation: 0.002097888198040243
+Iteration: 91139     Current best unit: [0.006176917706013004, -0.04510193033633871]     Function evaluation: 0.0020729710478167296
+Iteration: 91322     Current best unit: [0.04286224758652569, -0.014451068018965825]     Function evaluation: 0.0020466482687880316
+Iteration: 91474     Current best unit: [0.0072753983481019, -0.04406205860664437]     Function evaluation: 0.0019950573504711744
+Iteration: 91537     Current best unit: [0.03320284788117485, -0.023693729322847856]     Function evaluation: 0.0016645576377811722
+Iteration: 92470     Current best unit: [0.02951489272490086, -0.02782915383575182]     Function evaluation: 0.0016463284112406273
+Iteration: 92760     Current best unit: [0.016320840962290827, -0.03453991151465696]     Function evaluation: 0.0014601206644946352
+Iteration: 93981     Current best unit: [0.030920288907087562, -0.0221477486387943]     Function evaluation: 0.0014473320330692374
+Iteration: 94292     Current best unit: [0.035257279511350895, -0.011593380437379636]     Function evaluation: 0.001378223545115409
+Iteration: 94579     Current best unit: [0.02357144965417661, -0.02825417702919886]     Function evaluation: 0.0013546510875225848
+Iteration: 94668     Current best unit: [0.028347001351436984, -0.022245265578579417]     Function evaluation: 0.0012991375038468034
+Iteration: 94686     Current best unit: [0.03232408685283947, -0.014232864739901357]     Function evaluation: 0.0012481467373043342
+Iteration: 95010     Current best unit: [0.020881477011883136, -0.027484690527119424]     Function evaluation: 0.0011921597951152219
+Iteration: 95080     Current best unit: [0.03206575195208356, -0.011429307911638858]     Function evaluation: 0.0011595501135839292
+Iteration: 95584     Current best unit: [0.012400855711723694, -0.03060870493284608]     Function evaluation: 0.0010913658684055805
+Iteration: 95721     Current best unit: [0.023090440307061068, -0.023000754732213476]     Function evaluation: 0.0010628870589516892
+Iteration: 95858     Current best unit: [0.03142064911536002, -0.006670475556309723]     Function evaluation: 0.001032427268640057
+Iteration: 95907     Current best unit: [0.016845848368877724, -0.02304615134369471]     Function evaluation: 0.0008154999438040877
+Iteration: 97782     Current best unit: [0.004642887555807537, -0.012856064041777415]     Function evaluation: 0.00018700991697095937
+
+
+Iteration: 1     Current best unit: [-15.243133146399558, -2.477666504588761]     Function evaluation: 0.2186740911216365
+Iteration: 220     Current best unit: [3.464344450311387, 0.6547521255723598]     Function evaluation: 0.14918212947881854
+Iteration: 545     Current best unit: [-2.642376389884307, 12.331365257075829]     Function evaluation: 0.1293069964777362
+Iteration: 676     Current best unit: [-2.245903464940195, 5.696593000492321]     Function evaluation: 0.059023649021474556
+Iteration: 5016     Current best unit: [-3.101799902024955, -1.0214962642263874]     Function evaluation: 0.025491837619658397
+Iteration: 7739     Current best unit: [0.33436447502276945, -3.047216037915421]     Function evaluation: 0.014937477980894731
+Iteration: 11541     Current best unit: [1.8570635143878835, -2.4575324959957374]     Function evaluation: 0.013038582754233918
+Iteration: 12618     Current best unit: [-3.1797577234258863, -0.061538476367154815]     Function evaluation: 0.01143493265498624
+Iteration: 12800     Current best unit: [-3.172706935419225, 0.21997317506001723]     Function evaluation: 0.011432499683896702
+Iteration: 13618     Current best unit: [0.0034321933254961023, -3.126656060390623]     Function evaluation: 0.00985321237107828
+Iteration: 14870     Current best unit: [-1.2359481524971168, -2.890806178600286]     Function evaluation: 0.009745066464329044
+Iteration: 16037     Current best unit: [0.23110761722480258, -3.1345483648618546]     Function evaluation: 0.009736423789407256
+Iteration: 16067     Current best unit: [0.601298136249345, -3.0810712857269027]     Function evaluation: 0.009716408144642918
+
+
+Iteration: 1     Current best unit: [11.495195132721811, 22.16155111343214]     Function evaluation: 0.32076978835371234
+Iteration: 118     Current best unit: [-5.639733576910884, -10.654352204742203]     Function evaluation: 0.3014340573691759
+Iteration: 129     Current best unit: [5.828237319064591, 10.594950168309236]     Function evaluation: 0.278115978554492
+Iteration: 170     Current best unit: [-2.2126419056817994, -18.577055511233386]     Function evaluation: 0.23651896745614454
+Iteration: 429     Current best unit: [-14.82456196072026, 4.2390132720401255]     Function evaluation: 0.22673198423205204
+Iteration: 610     Current best unit: [-14.790926593754293, -5.7883001865114]     Function evaluation: 0.2005433907820784
+Iteration: 916     Current best unit: [-12.243036202753707, 9.638236879035887]     Function evaluation: 0.18655169184983372
+Iteration: 1428     Current best unit: [-0.023930060125508135, 12.330032370562868]     Function evaluation: 0.1645600855490313
+Iteration: 1447     Current best unit: [2.8270903407898382, 5.417667180425703]     Function evaluation: 0.06265125048908549
+Iteration: 3087     Current best unit: [1.3145607449950694, 2.644115081909454]     Function evaluation: 0.043197895035510026
+Iteration: 6978     Current best unit: [-0.7619487799304109, -2.9466486483553957]     Function evaluation: 0.018539305924663407
+Iteration: 7914     Current best unit: [-2.578086229040963, -1.9235870950680365]     Function evaluation: 0.015694014482519836
+Iteration: 8008     Current best unit: [1.4341455975171944, 2.7346970483705277]     Function evaluation: 0.012222990224526442
+Iteration: 10361     Current best unit: [-2.4752600708420047, -2.003165498737914]     Function evaluation: 0.011771435726300239
+Iteration: 11887     Current best unit: [2.753005913175535, -1.5332192178032074]     Function evaluation: 0.009873555984699245
+Iteration: 18912     Current best unit: [0.2594140962045073, 3.136898591104612]     Function evaluation: 0.009797577010455971
+Iteration: 26125     Current best unit: [-1.7339778852100607, -2.615942474605682]     Function evaluation: 0.009715911467602034
+
+
+Iteration: 1     Current best unit: [17.681676869381405, 7.227192946090398]     Function evaluation: 0.2650032161688806
+Iteration: 140     Current best unit: [11.984725359675316, 2.909142162044567]     Function evaluation: 0.16367919857163205
+Iteration: 438     Current best unit: [4.690494574434446, -11.655704547013372]     Function evaluation: 0.12704518546372529
+Iteration: 728     Current best unit: [-5.355834787270176, -3.0177474766828]     Function evaluation: 0.052741724948118796
+Iteration: 1271     Current best unit: [0.5797236936182486, 6.273166470465696]     Function evaluation: 0.037703350874005004
+Iteration: 3168     Current best unit: [-2.9962654714296804, 1.222354369481458]     Function evaluation: 0.019014341675601065
+Iteration: 4204     Current best unit: [-2.3280182285035664, -2.212422584608561]     Function evaluation: 0.014952995199178698
+Iteration: 8770     Current best unit: [0.04319378956780895, -0.03479180479510546]     Function evaluation: 0.003076077403948274
+
+
+Iteration: 1     Current best unit: [10.499822967320107, 7.681233338213644]     Function evaluation: 0.2687571166569604
+Iteration: 886     Current best unit: [-17.854375702080986, -6.408916410532908]     Function evaluation: 0.23739280053012574
+Iteration: 932     Current best unit: [-1.0408886115776284, -5.998673723101054]     Function evaluation: 0.06996880771518416
+Iteration: 6388     Current best unit: [-2.9020608245326827, 5.685315104538726]     Function evaluation: 0.04758071408557746
+Iteration: 9200     Current best unit: [6.313609571765255, 0.7076621333704372]     Function evaluation: 0.04255852917987357
+Iteration: 9261     Current best unit: [4.626574327336688, -4.183159800268148]     Function evaluation: 0.03869467127623155
+Iteration: 9604     Current best unit: [5.144991547041058, 3.5261760689940522]     Function evaluation: 0.038689706530437074
+Iteration: 9943     Current best unit: [6.202454101331657, 0.8159649573318812]     Function evaluation: 0.03764254548094148
+Iteration: 10941     Current best unit: [2.9544512646870116, -0.9405465885371617]     Function evaluation: 0.01112818655969372
+Iteration: 10984     Current best unit: [2.790514017046766, -1.5075230518481886]     Function evaluation: 0.010797224454624221
+Iteration: 13122     Current best unit: [3.0894572498394277, -0.6526446128794898]     Function evaluation: 0.010075966903325018
+Iteration: 13948     Current best unit: [3.123301428733748, -0.1159955599071244]     Function evaluation: 0.009882572541029089
+Iteration: 14152     Current best unit: [3.1298480001030575, -0.16517501537854995]     Function evaluation: 0.009733902474462985
+Iteration: 14292     Current best unit: [3.0491768533769887, 0.726094118799987]     Function evaluation: 0.0097319970197976
+Iteration: 14449     Current best unit: [2.8138320392688843, -1.3875047201048731]     Function evaluation: 0.00971722593962493
+Iteration: 15071     Current best unit: [3.097915288220212, 0.5060785877770203]     Function evaluation: 0.009716150436900217
+
+
+Iteration: 1     Current best unit: [-22.260986811633398, 11.03219619253413]     Function evaluation: 0.3396804819160709
+Iteration: 119     Current best unit: [-17.42194216390709, 18.22850979494352]     Function evaluation: 0.31567432792237815
+Iteration: 1130     Current best unit: [-18.193561281640026, 12.277089236373271]     Function evaluation: 0.273096255196272
+Iteration: 1631     Current best unit: [0.8317476532276231, -3.5227454575254575]     Function evaluation: 0.21902458654386958
+Iteration: 1982     Current best unit: [-11.599755402724243, 5.186172845725693]     Function evaluation: 0.14377198023988724
+Iteration: 2229     Current best unit: [1.9860422332932046, -12.491810432305364]     Function evaluation: 0.13343830170613186
+Iteration: 2907     Current best unit: [0.25414791610485554, -3.3365749139138092]     Function evaluation: 0.051401648768191366
+Iteration: 3196     Current best unit: [-0.7616527353580702, 6.318671598888638]     Function evaluation: 0.04425168006652613
+Iteration: 4188     Current best unit: [2.9189866427698883, 0.5422838849396214]     Function evaluation: 0.037702577427692285
+Iteration: 4561     Current best unit: [1.5965247658972643, 2.8884443948171565]     Function evaluation: 0.03515953801924404
+Iteration: 4795     Current best unit: [1.8552982341592106, -2.449618843417189]     Function evaluation: 0.013933128064027855
+Iteration: 9435     Current best unit: [2.670059693606447, -1.630564584295637]     Function evaluation: 0.009812376213958585
+Iteration: 11959     Current best unit: [1.6830425520162327, -2.6513785018154516]     Function evaluation: 0.009719709113047925
+Iteration: 14083     Current best unit: [1.4214581011150322, -2.7964429789045737]     Function evaluation: 0.00971813595240495
+Iteration: 16867     Current best unit: [2.409143761120006, -2.012069892758668]     Function evaluation: 0.00971604301999729
+
+
+Iteration: 1     Current best unit: [-33.49805644603858, -7.119798473860129]     Function evaluation: 0.41395055762328864
+Iteration: 147     Current best unit: [-19.702672801009122, 20.6019683271101]     Function evaluation: 0.36397347343715036
+Iteration: 175     Current best unit: [-3.0021124132500603, 15.917126793163902]     Function evaluation: 0.3251252047280969
+Iteration: 479     Current best unit: [4.196845351046761, -21.919683952168945]     Function evaluation: 0.32309773562454924
+Iteration: 556     Current best unit: [-18.41796604870549, -0.7003835265664691]     Function evaluation: 0.31334604241812314
+Iteration: 861     Current best unit: [19.567573537543378, -10.56596184228612]     Function evaluation: 0.3028834583406459
+Iteration: 887     Current best unit: [-16.240823885813562, 9.193327560797961]     Function evaluation: 0.24401539988666487
+Iteration: 889     Current best unit: [9.430260365735442, 2.2948628599984886]     Function evaluation: 0.14647940686783095
+Iteration: 1455     Current best unit: [5.6267550225114675, 2.46778494318144]     Function evaluation: 0.053555149800219914
+Iteration: 3905     Current best unit: [-0.5748118407380431, 6.1446406892137535]     Function evaluation: 0.047550172133028035
+Iteration: 4422     Current best unit: [2.884457228417304, -1.11653473628526]     Function evaluation: 0.01174462294943357
+Iteration: 19911     Current best unit: [1.2352159576540984, -2.886294890366756]     Function evaluation: 0.009716920309566779
+
+
+Iteration: 1     Current best unit: [6.0528536549650624, -0.7248054813562703]     Function evaluation: 0.06735020335988662
+Iteration: 3086     Current best unit: [-0.5183883604246162, 3.342526212470112]     Function evaluation: 0.06688298986047353
+Iteration: 3346     Current best unit: [-3.070249519399141, 0.5335386288566326]     Function evaluation: 0.010200618071653955
+Iteration: 41913     Current best unit: [-3.1082083006191468, -0.5702637635437434]     Function evaluation: 0.010173869861870577
+Iteration: 44767     Current best unit: [-3.0682102913657037, 0.6960505846635889]     Function evaluation: 0.009773914093304248
+
+
+Iteration: 1     Current best unit: [11.722188217334484, 22.367754694365516]     Function evaluation: 0.31896960810155234
+Iteration: 886     Current best unit: [-11.58751739404424, 14.347469758222514]     Function evaluation: 0.30892743276479356
+Iteration: 1049     Current best unit: [-11.21186370352649, 4.555349353929696]     Function evaluation: 0.27222594969863234
+Iteration: 1334     Current best unit: [-8.957883976914054, 2.3187706143857634]     Function evaluation: 0.10051251316521898
+Iteration: 2299     Current best unit: [-5.735430917822191, -2.4578986569653614]     Function evaluation: 0.03850914034369107
+Iteration: 3615     Current best unit: [1.4937566062545855, 2.839964516961235]     Function evaluation: 0.014564739128158977
+Iteration: 18320     Current best unit: [2.805243153085499, 1.3067707254050485]     Function evaluation: 0.011598933162371927
+Iteration: 19884     Current best unit: [1.5924248189184809, 2.741836600329939]     Function evaluation: 0.010735419997682794
+Iteration: 21866     Current best unit: [-2.7661757406800094, 1.4265517257606946]     Function evaluation: 0.010385876661665405
+Iteration: 22702     Current best unit: [-2.977149094161769, 1.0316421614012803]     Function evaluation: 0.009865374394758153
+Iteration: 22722     Current best unit: [-2.3692770539891406, 2.044015671086884]     Function evaluation: 0.009801756279908869
+Iteration: 22745     Current best unit: [-1.7315965233722592, 2.6131837326338823]     Function evaluation: 0.009729025473747044
+Iteration: 23190     Current best unit: [-3.112679794645767, 0.427901228899238]     Function evaluation: 0.009727722767360614
+Iteration: 23350     Current best unit: [-3.0931268214562224, -0.549607170061043]     Function evaluation: 0.00972529052128307
+Iteration: 23943     Current best unit: [-3.0623960723018033, 0.6965476938214771]     Function evaluation: 0.00972035433080154
+Iteration: 24268     Current best unit: [-2.7114274295268763, 1.5801612468077215]     Function evaluation: 0.009715954526882065
+Iteration: 31939     Current best unit: [0.01816857140504169, -0.007915418222671337]     Function evaluation: 0.00039309185962888016
+Iteration: 88045     Current best unit: [0.014699766213269488, -0.01244347156160499]     Function evaluation: 0.00037124789995041096
+Iteration: 88884     Current best unit: [0.01761785342189295, -0.004761365238361964]     Function evaluation: 0.0003333552209511259
+Iteration: 90306     Current best unit: [0.012064878427883124, -0.01217523858268507]     Function evaluation: 0.0002940625797633323
+Iteration: 90684     Current best unit: [0.0064233775749348195, -0.015611814816926672]     Function evaluation: 0.0002852462955521551
+Iteration: 90822     Current best unit: [0.01653659392242661, 0.003212538692780713]     Function evaluation: 0.0002840361190280527
+Iteration: 90899     Current best unit: [0.0038092388904533807, -0.01623547464356174]     Function evaluation: 0.0002783531048942134
+Iteration: 91014     Current best unit: [0.0041736511934213905, -0.016021354026071157]     Function evaluation: 0.0002743520586346304
+Iteration: 91085     Current best unit: [0.010903298367114272, -0.012264968262717486]     Function evaluation: 0.00026955635264169775
+Iteration: 91547     Current best unit: [0.013583476189193972, -0.0064142760170060745]     Function evaluation: 0.00022586234136273697
+Iteration: 92385     Current best unit: [0.006404640530313765, -0.013390834589866377]     Function evaluation: 0.0002205379261844831
+Iteration: 92853     Current best unit: [0.0047401136914455525, -0.013896140745487215]     Function evaluation: 0.0002157713939281436
+Iteration: 92926     Current best unit: [0.01385577378235385, -0.0036527600259435656]     Function evaluation: 0.00020551631124626768
+Iteration: 94205     Current best unit: [0.009020523458922585, -0.010981993048835556]     Function evaluation: 0.00020216230970182547
+Iteration: 94297     Current best unit: [0.0004844176704417889, -0.01415377307054424]     Function evaluation: 0.00020075102778321918
+Iteration: 94349     Current best unit: [0.013997767392929175, -6.753563652104168e-05]     Function evaluation: 0.00019612512083433398
+Iteration: 94418     Current best unit: [0.005661716894950292, -0.012119090756384234]     Function evaluation: 0.00017909559086792814
+Iteration: 94478     Current best unit: [0.010387240797037674, -0.007420772420143631]     Function evaluation: 0.00016311669209029267
+Iteration: 95980     Current best unit: [0.00398891204561598, -0.011294026389348873]     Function evaluation: 0.00014360301590526925
+Iteration: 97200     Current best unit: [0.009070017211878452, -0.007367083591940524]     Function evaluation: 0.0001366694204967267
+Iteration: 97418     Current best unit: [0.003629543831433584, -0.010499164790409316]     Function evaluation: 0.0001235243490231852
+Iteration: 97600     Current best unit: [0.008615183875233367, -0.006608392520578904]     Function evaluation: 0.00011800547655049787
+Iteration: 98346     Current best unit: [0.002628379633226266, -0.01010050938884521]     Function evaluation: 0.0001090336192378083
+Iteration: 98622     Current best unit: [0.00072212908612537, -0.00998465685508743]     Function evaluation: 0.00010031169004648399
+
+
+Iteration: 1     Current best unit: [5.692993209616603, 8.216909361934889]     Function evaluation: 0.32862764160202884
+Iteration: 388     Current best unit: [-3.360088639624273, 18.61699095168155]     Function evaluation: 0.23134826530325114
+Iteration: 1633     Current best unit: [7.475250768480947, 13.73437772337067]     Function evaluation: 0.18042726307655443
+Iteration: 2133     Current best unit: [6.6317770776284615, 10.908851048533698]     Function evaluation: 0.159541562805316
+Iteration: 2662     Current best unit: [-4.085889397269799, 4.523434391056028]     Function evaluation: 0.06752427406960809
+Iteration: 3820     Current best unit: [4.6420766887265685, 4.200329995504186]     Function evaluation: 0.03748633888828806
+Iteration: 5107     Current best unit: [1.6909620227518216, 2.5953369283534755]     Function evaluation: 0.011356281336454443
+Iteration: 8908     Current best unit: [-3.0861580851805996, 0.5187632778699589]     Function evaluation: 0.009795951989165497
+Iteration: 14331     Current best unit: [-1.1482288939543706, 2.9228879549343882]     Function evaluation: 0.009719269666444263
+Iteration: 16121     Current best unit: [1.0528755311133635, 2.9573685812575397]     Function evaluation: 0.009716411736228558
+Iteration: 37529     Current best unit: [-0.046105551885855786, -0.06236376664210752]     Function evaluation: 0.006008853745629705
+Iteration: 80827     Current best unit: [0.06304407787023446, -0.005820269328516758]     Function evaluation: 0.004007054625999318
+
+
+Iteration: 1     Current best unit: [12.369184853567063, 9.007466850046875]     Function evaluation: 0.27442013647459185
+Iteration: 130     Current best unit: [5.628055948733525, -18.190858660770726]     Function evaluation: 0.25031544589391386
+Iteration: 280     Current best unit: [-0.1419743274383407, 15.73888693168044]     Function evaluation: 0.17947571579460503
+Iteration: 709     Current best unit: [9.199496230692707, -0.8234717792804815]     Function evaluation: 0.10532422430374033
+Iteration: 1092     Current best unit: [4.658624580241799, -3.8366671596293784]     Function evaluation: 0.09064250895065168
+Iteration: 1270     Current best unit: [5.1007488334461755, 3.5863239207094537]     Function evaluation: 0.038844213846679077
+Iteration: 2548     Current best unit: [-3.2430523094534323, 0.42116482802300936]     Function evaluation: 0.026649539287174895
+Iteration: 3263     Current best unit: [-0.6736379226263836, -2.93979037602292]     Function evaluation: 0.024386751873606838
+Iteration: 10410     Current best unit: [-2.0459084697057808, 2.2657838891666664]     Function evaluation: 0.01691171312574452
+Iteration: 18241     Current best unit: [2.2169647086787903, -2.1137064343676606]     Function evaluation: 0.015284297979682115
+Iteration: 24871     Current best unit: [-1.6030888156056122, -2.7690743189142055]     Function evaluation: 0.013379883650729618
+Iteration: 30351     Current best unit: [-3.090769410734893, 0.5062140588936541]     Function evaluation: 0.009757833182899744
+Iteration: 36311     Current best unit: [1.226094840740063, -2.8828884062375613]     Function evaluation: 0.009747777962864579
+Iteration: 53665     Current best unit: [0.9122013860497359, -3.0008670675783153]     Function evaluation: 0.009719976677193654
+Iteration: 60177     Current best unit: [1.6882917701405395, -2.643721987364107]     Function evaluation: 0.009718653747658401
+Iteration: 79841     Current best unit: [0.4470762658423264, -3.1054517498504293]     Function evaluation: 0.00971692401055091
+Iteration: 97960     Current best unit: [0.39116148467381207, -3.113995039583596]     Function evaluation: 0.00971591020447704
+
+
+Iteration: 1     Current best unit: [-5.2010668546112555, -18.177153336685524]     Function evaluation: 0.23042345458188512
+Iteration: 102     Current best unit: [1.46903706013466, 9.63004282430768]     Function evaluation: 0.1638062045187621
+Iteration: 368     Current best unit: [0.14288322647397678, -12.346154427884983]     Function evaluation: 0.15919493435962367
+Iteration: 494     Current best unit: [2.3109770650386636, 5.886940496585915]     Function evaluation: 0.039280438186098665
+Iteration: 2348     Current best unit: [6.284966500446188, -0.33226893603539764]     Function evaluation: 0.03747920113324721
+Iteration: 6409     Current best unit: [-3.262140099121268, -0.24227568596973015]     Function evaluation: 0.026864386935373186
+Iteration: 6602     Current best unit: [0.14121462944991237, -3.166791965144135]     Function evaluation: 0.010686451411032027
+Iteration: 9096     Current best unit: [-3.00923721492741, 0.8798308002761601]     Function evaluation: 0.009726366064875924
+
+
+Iteration: 1     Current best unit: [-14.362498972582195, 6.063564555452203]     Function evaluation: 0.18537432313031543
+Iteration: 1132     Current best unit: [2.4630907301067113, 1.9347925065943061]     Function evaluation: 0.009755551128204198
+Iteration: 9709     Current best unit: [2.5846263717616655, -1.7793089534688182]     Function evaluation: 0.00971627981904416
+
+
+Iteration: 1     Current best unit: [-15.275180736630567, 0.6272330803320543]     Function evaluation: 0.28069541898426653
+Iteration: 62     Current best unit: [-9.632279346814677, 19.75687023147384]     Function evaluation: 0.27274678869615304
+Iteration: 211     Current best unit: [-15.16172037780969, -10.838059489080742]     Function evaluation: 0.24906176509772393
+Iteration: 432     Current best unit: [-14.847880547119807, -4.901966438497555]     Function evaluation: 0.18048471037251002
+Iteration: 2342     Current best unit: [-6.356104909239985, -0.8686188667086425]     Function evaluation: 0.05472657164673628
+Iteration: 3083     Current best unit: [-2.5564150668699943, 1.7346289582177903]     Function evaluation: 0.012082916614495454
+Iteration: 14926     Current best unit: [-1.595349251423253, -2.704638056975614]     Function evaluation: 0.009718459558429315
+Iteration: 16932     Current best unit: [2.21755467411368, -2.2208233508692743]     Function evaluation: 0.009715915662699304
+Iteration: 38966     Current best unit: [-0.05435285451183347, 0.038368815615708464]     Function evaluation: 0.004424258897946176
+Iteration: 46884     Current best unit: [0.02670934606236841, 0.004754834814677243]     Function evaluation: 0.0007365519884372507
+Iteration: 71215     Current best unit: [-0.004902361385951792, 0.020837496677978032]     Function evaluation: 0.0004586222405199569
+
+
+Iteration: 1     Current best unit: [17.672094522604453, 12.731910021431744]     Function evaluation: 0.29004546196171554
+Iteration: 77     Current best unit: [-11.979762539142705, 9.694190491285504]     Function evaluation: 0.22949359318271217
+Iteration: 608     Current best unit: [2.649346052194666, 12.436256121654552]     Function evaluation: 0.14581227524726426
+Iteration: 651     Current best unit: [3.8411436116024618, -8.706152817765759]     Function evaluation: 0.08654083809210195
+Iteration: 1098     Current best unit: [2.4252799016789126, -2.2873511679952543]     Function evaluation: 0.04660999812460015
+Iteration: 4110     Current best unit: [1.8330884024497536, -2.759483539965474]     Function evaluation: 0.03921257722859095
+Iteration: 4871     Current best unit: [0.11216107115022766, -2.999919594254032]     Function evaluation: 0.027903078313379348
+Iteration: 11875     Current best unit: [0.23586895436191924, -3.066062764957863]     Function evaluation: 0.013653490791263267
+Iteration: 19180     Current best unit: [-3.102056185194236, -0.15458902830518895]     Function evaluation: 0.010757644370010533
+Iteration: 33260     Current best unit: [2.3478160123274825, 2.048618794863828]     Function evaluation: 0.010214835619413831
+Iteration: 50576     Current best unit: [1.7332449173646947, 2.5906711244375993]     Function evaluation: 0.010168830658571548
+Iteration: 68421     Current best unit: [2.251048380293962, 2.166957531931854]     Function evaluation: 0.009906031862232267
+Iteration: 69307     Current best unit: [2.611565324208904, 1.7631968335507624]     Function evaluation: 0.009870937477794495
+Iteration: 74899     Current best unit: [2.4273292017246555, 1.980060781145704]     Function evaluation: 0.009751047170995397
+Iteration: 75909     Current best unit: [2.718770654685994, 1.568607330687189]     Function evaluation: 0.009716025650273852
+
+
+Iteration: 1     Current best unit: [21.94147998707028, -0.09340444600074704]     Function evaluation: 0.2732880913843658
+Iteration: 24     Current best unit: [14.638565682686206, -5.696246756242388]     Function evaluation: 0.17832167911899327
+Iteration: 343     Current best unit: [-8.01169261852828, 5.350620877105868]     Function evaluation: 0.11749106583586638
+Iteration: 806     Current best unit: [2.3124918649036026, 2.3061084854468987]     Function evaluation: 0.025534820987026363
+Iteration: 7035     Current best unit: [-0.17981879324251793, 3.077655459360251]     Function evaluation: 0.01274641016539968
+Iteration: 21229     Current best unit: [2.884696911830062, -1.3509157465368489]     Function evaluation: 0.011869256392265604
+Iteration: 27131     Current best unit: [-2.881988979768472, 1.226634144585816]     Function evaluation: 0.009755047238866554
+Iteration: 44246     Current best unit: [-2.6955580415948717, 1.6167782606939483]     Function evaluation: 0.00973817399347443
+
+
+Iteration: 1     Current best unit: [-4.593753773177923, 21.580111831956444]     Function evaluation: 0.27618801722225
+Iteration: 51     Current best unit: [7.8532218731429335, -9.534205789392992]     Function evaluation: 0.15765299921043863
+Iteration: 368     Current best unit: [5.1943683913307055, -11.34083563287641]     Function evaluation: 0.1319778570934958
+Iteration: 1532     Current best unit: [10.775113659806548, 6.45344017317277]     Function evaluation: 0.12700451116368572
+Iteration: 3357     Current best unit: [6.1892767665262935, -1.376855204847513]     Function evaluation: 0.04094264832154043
+Iteration: 4887     Current best unit: [5.930281455410992, -1.9575529729172203]     Function evaluation: 0.03818060580083937
+Iteration: 5344     Current best unit: [6.012257290510888, -1.7681404668288416]     Function evaluation: 0.037322085392374305
+Iteration: 5890     Current best unit: [6.174290495768381, -1.0891160908239006]     Function evaluation: 0.03727667341354113
+Iteration: 6264     Current best unit: [5.467268626251417, -3.076307493182698]     Function evaluation: 0.03723755656091865
+Iteration: 6294     Current best unit: [6.260340682998678, 0.48693492935431637]     Function evaluation: 0.03722817189896027
+Iteration: 6430     Current best unit: [5.499831901748084, -3.026535868976738]     Function evaluation: 0.037224253125782314
+Iteration: 15061     Current best unit: [-2.805421174093148, -1.6008502984731137]     Function evaluation: 0.017913034167516384
+Iteration: 16214     Current best unit: [2.801972295914304, -1.2069593109373333]     Function evaluation: 0.017237033215437236
+Iteration: 24395     Current best unit: [-2.013670625037875, -2.378676436598842]     Function evaluation: 0.010187581624407305
+Iteration: 29178     Current best unit: [-3.0668876714244244, -0.6446139438989256]     Function evaluation: 0.009736546439267135
+Iteration: 29334     Current best unit: [-3.032541416633457, 0.8070682106483229]     Function evaluation: 0.009716055845499227
+
+
+Iteration: 1     Current best unit: [-1.4963055947367465, 15.9649057087057]     Function evaluation: 0.24886257868826406
+Iteration: 879     Current best unit: [-16.7000064913968, 8.35451428404549]     Function evaluation: 0.24204091659857285
+Iteration: 1015     Current best unit: [13.629617672314986, 8.10329845473068]     Function evaluation: 0.1947235823001074
+Iteration: 1156     Current best unit: [2.1694717458805144, 12.510946287630457]     Function evaluation: 0.14191357115888426
+Iteration: 1418     Current best unit: [-5.908064219628642, 2.854503535617269]     Function evaluation: 0.10980650036402473
+Iteration: 2223     Current best unit: [2.4368520769548994, 5.87702929275209]     Function evaluation: 0.04390281829555304
+Iteration: 5974     Current best unit: [4.7787757964486, 4.111124525134603]     Function evaluation: 0.037882422821955586
+Iteration: 7363     Current best unit: [4.067657139850928, -4.791355390829782]     Function evaluation: 0.03728319275234371
+Iteration: 9697     Current best unit: [2.7683492741577322, 5.63185964512643]     Function evaluation: 0.037226659969812115
+Iteration: 10710     Current best unit: [4.189896191370477, 4.675542323882068]     Function evaluation: 0.03722512400537614
+Iteration: 11744     Current best unit: [2.7033217412353796, -1.4758262194974208]     Function evaluation: 0.013078318921060261
+Iteration: 22150     Current best unit: [2.3831756688076293, -2.0691008605965933]     Function evaluation: 0.010018969717812298
+Iteration: 24422     Current best unit: [3.052968904029821, -0.7699308315361545]     Function evaluation: 0.009815480552350098
+Iteration: 27942     Current best unit: [2.050411726726175, -2.3890590808697905]     Function evaluation: 0.00981045608809894
+Iteration: 28152     Current best unit: [2.9408413221964103, -1.1177860474243007]     Function evaluation: 0.009772941030379734
+Iteration: 28222     Current best unit: [2.763851670545738, -1.4784545514243714]     Function evaluation: 0.009731982107805293
+Iteration: 28351     Current best unit: [2.862154116105682, -1.2919432987205548]     Function evaluation: 0.009718898885175076
+Iteration: 29625     Current best unit: [2.5882967240946932, -1.776718512119175]     Function evaluation: 0.009716783178897681
+
+
+Iteration: 1     Current best unit: [12.711620355642324, -8.335553795349647]     Function evaluation: 0.3256949116649104
+Iteration: 80     Current best unit: [9.092532702439101, 16.406404264035615]     Function evaluation: 0.23102249139257058
+Iteration: 170     Current best unit: [-9.151936120810383, 1.2450644132232753]     Function evaluation: 0.10533582703408911
+Iteration: 3482     Current best unit: [2.1802443744684012, -9.170391450487926]     Function evaluation: 0.07827149965044955
+Iteration: 5311     Current best unit: [0.14360779574171234, 3.116075299820828]     Function evaluation: 0.010074084299356412
+Iteration: 13954     Current best unit: [-1.5492090875934394, 2.719136504882885]     Function evaluation: 0.009795202972201877
+Iteration: 58719     Current best unit: [0.6860123307801093, 3.0539429314125446]     Function evaluation: 0.009785833650251818
+Iteration: 59334     Current best unit: [0.786226822873118, 3.043609984392968]     Function evaluation: 0.009740788375990184
+Iteration: 61053     Current best unit: [-0.24135892789029678, 3.1329467313197723]     Function evaluation: 0.009729677051605934
+Iteration: 66346     Current best unit: [0.5095803791754894, 3.098339306697835]     Function evaluation: 0.009718059642317978
+Iteration: 70861     Current best unit: [0.9766552971854854, 2.9834655344556413]     Function evaluation: 0.009716492159713153
+Iteration: 82671     Current best unit: [-0.05859157413806114, -0.0036094985779371314]     Function evaluation: 0.0034454668112730014
+
+
+Iteration: 1     Current best unit: [-8.157057759373302, 9.441754795137157]     Function evaluation: 0.13155557450416583
+Iteration: 750     Current best unit: [-6.433944046052574, 1.3622813747569593]     Function evaluation: 0.11744793801151598
+Iteration: 1215     Current best unit: [0.6957665864900662, -6.43981071509296]     Function evaluation: 0.0737242389748482
+Iteration: 1981     Current best unit: [-5.38657383490915, 2.9024771850834554]     Function evaluation: 0.06032318151514998
+Iteration: 2725     Current best unit: [-1.5700584490192995, 2.5055987884247344]     Function evaluation: 0.04178188706953562
+Iteration: 5379     Current best unit: [-2.196699621338908, -2.1459839570074823]     Function evaluation: 0.014188362594372894
+Iteration: 9874     Current best unit: [2.6519654290825727, 1.6239952567872464]     Function evaluation: 0.010528735598262118
+Iteration: 14499     Current best unit: [3.1169414196147613, -0.40198160587975806]     Function evaluation: 0.009733812662691244
+Iteration: 70657     Current best unit: [-0.04089940970087014, 3.1353356494991473]     Function evaluation: 0.009724065195027998
+
+
+Iteration: 1     Current best unit: [-2.999729075744952, 2.0580335639424305]     Function evaluation: 0.23379094765936803
+Iteration: 532     Current best unit: [11.813280565703218, 4.45774404418284]     Function evaluation: 0.13072422919672472
+Iteration: 696     Current best unit: [-6.014522035267337, 1.3571868639196683]     Function evaluation: 0.04869482731391511
+Iteration: 5522     Current best unit: [2.9601524897208416, -0.29195770958262013]     Function evaluation: 0.03590473777607428
+Iteration: 7218     Current best unit: [-3.227392395084977, 0.3771382433425998]     Function evaluation: 0.02172036593794402
+Iteration: 7381     Current best unit: [-1.8236351867669343, 2.46569857361796]     Function evaluation: 0.014752969348242606
+Iteration: 7827     Current best unit: [-2.006123570822257, 2.331402434547133]     Function evaluation: 0.01358127921611113
+Iteration: 8474     Current best unit: [-3.1364211661364916, 0.17087800979630743]     Function evaluation: 0.009722482778342312
+Iteration: 11532     Current best unit: [-3.069652241381053, -0.6537825875812613]     Function evaluation: 0.009715910176652354
+Iteration: 23407     Current best unit: [-0.09011680085406937, -0.00784416590475717]     Function evaluation: 0.008168323852208281
+Iteration: 36396     Current best unit: [0.006349616614656384, -0.008783223393888168]     Function evaluation: 0.00011757548028418219
+Iteration: 64724     Current best unit: [-0.008243814982910378, -0.0058869884571276995]     Function evaluation: 0.00010271620456675512
+Iteration: 65442     Current best unit: [-0.005141093647234791, -0.008102358413203892]     Function evaluation: 9.216829168257057e-05
+Iteration: 65796     Current best unit: [-0.008359051384821141, -0.0029620775478825046]     Function evaluation: 7.872421692178833e-05
+Iteration: 67671     Current best unit: [-0.006013549790808199, -0.0062342114490874945]     Function evaluation: 7.510131399507403e-05
+Iteration: 67706     Current best unit: [0.00041246400059995886, -0.008489414786952896]     Function evaluation: 7.231078028546722e-05
+Iteration: 68201     Current best unit: [-0.005470222190421014, -0.006346210388193054]     Function evaluation: 7.026626240058675e-05
+Iteration: 68361     Current best unit: [-0.005532964163129267, -0.005938721143157427]     Function evaluation: 6.594652785646415e-05
+Iteration: 68765     Current best unit: [-0.00745673202279176, -0.0024995618465934767]     Function evaluation: 6.191122973236984e-05
+Iteration: 69856     Current best unit: [-0.006188450618525002, -0.0046938445244884795]     Function evaluation: 6.038820610065887e-05
+Iteration: 69917     Current best unit: [-0.0041736164439687435, -0.0064393107744851056]     Function evaluation: 5.8941518571442586e-05
+Iteration: 70017     Current best unit: [-0.006212331853936585, -0.0035719930804486016]     Function evaluation: 5.140266954367645e-05
+Iteration: 70953     Current best unit: [-0.006656231948451612, -0.001936059182770768]     Function evaluation: 4.8101028322034e-05
+Iteration: 71820     Current best unit: [-0.001127873881011988, -0.005944415729594681]     Function evaluation: 3.664433663586042e-05
+Iteration: 73146     Current best unit: [-0.0040641209492686, -0.0038130028273480835]     Function evaluation: 3.1086802299129523e-05
+Iteration: 73978     Current best unit: [-0.0046962031905541666, -0.002507820695307748]     Function evaluation: 2.837156314455802e-05
+Iteration: 74378     Current best unit: [-0.002295281038742553, -0.004565566036799915]     Function evaluation: 2.6138592336300004e-05
+Iteration: 75387     Current best unit: [-0.004863729502308728, -0.0005114381781131136]     Function evaluation: 2.394115928977536e-05
+Iteration: 75838     Current best unit: [-0.0006513061753252376, -0.004703884579845647]     Function evaluation: 2.2573110075307934e-05
+Iteration: 76509     Current best unit: [-0.004362268110301611, -0.001520817359191269]     Function evaluation: 2.1363458032552796e-05
+Iteration: 76919     Current best unit: [-0.0027178860957334924, -0.0035512628798567564]     Function evaluation: 2.0018237132490846e-05
+Iteration: 77185     Current best unit: [-0.002994913794307526, -0.003157904676234533]     Function evaluation: 1.8960692134084578e-05
+Iteration: 77709     Current best unit: [-0.0020452367468051648, -0.0036087273807620087]     Function evaluation: 1.7223013292433365e-05
+Iteration: 77978     Current best unit: [-0.0019619160028920037, -0.0034535908155789398]     Function evaluation: 1.5792096864863936e-05
+Iteration: 78649     Current best unit: [-0.003375817196368236, -0.0018005278316472048]     Function evaluation: 1.4652608405107959e-05
+Iteration: 79258     Current best unit: [-0.0023470846837059956, -0.0027684547252016206]     Function evaluation: 1.318626303498105e-05
+Iteration: 79484     Current best unit: [-0.0010867855883795357, -0.0033099176888457013]     Function evaluation: 1.2148745285989193e-05
+Iteration: 81622     Current best unit: [-0.0015670434893336313, -0.0029039765143263592]     Function evaluation: 1.0899553839538445e-05
+Iteration: 81877     Current best unit: [-0.0018034223489451595, -0.002446617312998052]     Function evaluation: 9.247478093943329e-06
+Iteration: 83841     Current best unit: [-0.0018674039286353437, -0.00206203759734441]     Function evaluation: 7.74691559701779e-06
+Iteration: 85576     Current best unit: [-0.0017516271279502432, -0.0018463834475960172]     Function evaluation: 6.483792691025503e-06
+Iteration: 86589     Current best unit: [-0.001821296589812352, -0.001399084361743155]     Function evaluation: 5.279823548365314e-06
+Iteration: 88477     Current best unit: [-0.001956524011626834, -0.0005588491575531589]     Function evaluation: 4.144433139174897e-06
+Iteration: 89907     Current best unit: [-0.001079755880866388, -0.0013980545162173299]     Function evaluation: 3.123546356675888e-06
+Iteration: 93899     Current best unit: [-0.0006730422321726359, -0.001256323398511793]     Function evaluation: 2.033364278675176e-06
+Iteration: 98432     Current best unit: [-0.0003761283985935538, -0.0009426935806412338]     Function evaluation: 1.0311735471058014e-06
+
+OPTIMUM HAS BEEN FOUND!
+
+
+
+Iteration: 1     Current best unit: [-24.091070976961348, 8.36997645045907]     Function evaluation: 0.36467383000428033
+Iteration: 271     Current best unit: [-20.771283615700153, -6.831972427106869]     Function evaluation: 0.2782817037722673
+Iteration: 302     Current best unit: [1.2001429182948442, 9.122220153586825]     Function evaluation: 0.11692453792331958
+Iteration: 2378     Current best unit: [8.382389467346684, 4.609971873124148]     Function evaluation: 0.09705420587067365
+Iteration: 3347     Current best unit: [2.9006649863556193, -1.5889571140775698]     Function evaluation: 0.037404312870643
+Iteration: 4933     Current best unit: [0.5916111760081796, -2.9618728911286785]     Function evaluation: 0.023356919621515315
+Iteration: 8291     Current best unit: [2.877614593922582, -1.2867299712245428]     Function evaluation: 0.009900407334140549
+Iteration: 14177     Current best unit: [-1.050591955924474, -2.9544242610393265]     Function evaluation: 0.0097237402550997
+Iteration: 16111     Current best unit: [1.8335630084309855, -2.5482135779127195]     Function evaluation: 0.009716598633127016
+Iteration: 44935     Current best unit: [0.0013907365457228593, -0.08026932069015183]     Function evaluation: 0.006437625592463525
+Iteration: 62789     Current best unit: [0.009833936374903374, -0.02389197028735835]     Function evaluation: 0.0006680506697027133
+
+
+Iteration: 1     Current best unit: [4.461479821070725, 8.549124398821476]     Function evaluation: 0.12078435842993729
+Iteration: 488     Current best unit: [-8.70238553791809, 3.27077574924035]     Function evaluation: 0.090201374834469
+Iteration: 2368     Current best unit: [-5.093985351195616, -3.935115842740558]     Function evaluation: 0.060611449667381134
+Iteration: 3954     Current best unit: [1.525601365168928, -2.745514053700674]     Function evaluation: 0.009721676195596052
+
+
+Iteration: 1     Current best unit: [-8.1256092823903, 5.211503734747566]     Function evaluation: 0.12453492253523196
+Iteration: 227     Current best unit: [6.278386450886167, -0.21386343464246949]     Function evaluation: 0.037246150522925514
+Iteration: 1378     Current best unit: [2.6152033299599253, 1.5525022830316786]     Function evaluation: 0.01896332805040407
+Iteration: 13353     Current best unit: [0.0960972400884117, 0.06131726202414001]     Function evaluation: 0.012950956033931316
+Iteration: 29057     Current best unit: [-2.8054800552448143, -1.4152028330914206]     Function evaluation: 0.009729569689923667
+
+
+Iteration: 1     Current best unit: [8.574586161636773, -5.38874864896728]     Function evaluation: 0.43213441252076334
+Iteration: 112     Current best unit: [31.56753916060235, -20.787378110833398]     Function evaluation: 0.4168529996210862
+Iteration: 168     Current best unit: [1.28252978570098, 9.561398870769878]     Function evaluation: 0.1221842776456642
+Iteration: 470     Current best unit: [8.443042167149253, -4.0119694416123135]     Function evaluation: 0.08213536613312089
+Iteration: 532     Current best unit: [-3.179922002039845, -1.121176947475483]     Function evaluation: 0.06207379513111655
+Iteration: 951     Current best unit: [-1.189161601475286, 2.8807929165374873]     Function evaluation: 0.010186876574618864
+Iteration: 1689     Current best unit: [-2.9467695568631247, -1.0211087741182452]     Function evaluation: 0.010101237868637924
+Iteration: 1696     Current best unit: [-3.1314240117319634, -0.24942948661926395]     Function evaluation: 0.009723924235476633
+Iteration: 2017     Current best unit: [-2.913660792605932, -1.1669364896031087]     Function evaluation: 0.009715938558825576
+
+
+Iteration: 1     Current best unit: [-13.135391213588889, -13.549317393091556]     Function evaluation: 0.22837808106502888
+Iteration: 1857     Current best unit: [-1.1878330845062504, 15.672776330647535]     Function evaluation: 0.17854388816657785
+Iteration: 1979     Current best unit: [-9.402004847126454, 8.045330961109961]     Function evaluation: 0.15135922361007847
+Iteration: 2533     Current best unit: [-8.71612456700469, 4.097028038254336]     Function evaluation: 0.11639798159217613
+Iteration: 3171     Current best unit: [9.292779578105936, -0.5452406784741135]     Function evaluation: 0.08791129856615959
+Iteration: 3530     Current best unit: [3.0188643127141006, -0.511289810505716]     Function evaluation: 0.015471998146745547
+Iteration: 7331     Current best unit: [-3.1874765963311424, 0.39290594912579735]     Function evaluation: 0.014950760813342068
+Iteration: 9571     Current best unit: [2.91442559327903, 0.965156163125003]     Function evaluation: 0.014303984589354501
+Iteration: 9626     Current best unit: [2.338453673868771, 2.093823273825285]     Function evaluation: 0.009716050323964942
+
+
+Iteration: 1     Current best unit: [-0.44622064751929, -15.677006735025941]     Function evaluation: 0.17831537256281016
+Iteration: 1099     Current best unit: [8.690399353833602, -3.9388796410012406]     Function evaluation: 0.09132911807930288
+Iteration: 2560     Current best unit: [5.439385840264093, 3.3481313763446856]     Function evaluation: 0.04838970181914454
+Iteration: 2955     Current best unit: [2.829149181607548, 1.1340207859113307]     Function evaluation: 0.017742673677195286
+Iteration: 3524     Current best unit: [-0.2690626107680588, -3.085861153578404]     Function evaluation: 0.011358775808302912
+Iteration: 3702     Current best unit: [-1.9132731663316271, -2.515022197836783]     Function evaluation: 0.010172471049108511
+Iteration: 4240     Current best unit: [2.9412884889367685, -1.1272823214217682]     Function evaluation: 0.009844056562632153
+Iteration: 5951     Current best unit: [2.985675343054657, 0.9346227842234079]     Function evaluation: 0.00981294509630315
+Iteration: 6304     Current best unit: [-3.1081427541026683, 0.41644963857025813]     Function evaluation: 0.009722377085461642
+Iteration: 6407     Current best unit: [-0.06458801306453343, -3.1391456593236815]     Function evaluation: 0.009717633671449233
+Iteration: 8608     Current best unit: [-0.9494854905376773, -2.991823988186541]     Function evaluation: 0.009716058968094243
+
+
+Iteration: 1     Current best unit: [4.1227039152008444, -8.181723524137617]     Function evaluation: 0.13198617935109908
+Iteration: 6774     Current best unit: [0.9298687709136555, 2.8504853832017147]     Function evaluation: 0.028895443758704398
+Iteration: 14183     Current best unit: [-0.4147637023136083, -3.207956720756238]     Function evaluation: 0.01875940361417383
+Iteration: 24808     Current best unit: [3.1161383038783375, 0.8490648055309811]     Function evaluation: 0.017861145740673212
+Iteration: 26961     Current best unit: [0.09883007065955987, 3.0654998453377056]     Function evaluation: 0.014713190565971812
+Iteration: 27120     Current best unit: [-3.0953229478795277, -0.2895865285749989]     Function evaluation: 0.010578491581865801
+Iteration: 27616     Current best unit: [-3.1088561501334695, -0.4795664136511486]     Function evaluation: 0.009765978900002914
+Iteration: 28625     Current best unit: [-0.7685623708605696, 3.0358904821942434]     Function evaluation: 0.009761577951209521
+Iteration: 30967     Current best unit: [1.1298906126462709, 2.926727845440079]     Function evaluation: 0.009717386873497713
+Iteration: 31990     Current best unit: [2.785384245685658, -1.4470620997754717]     Function evaluation: 0.009716037910492747
+Iteration: 72978     Current best unit: [-0.023331120340166933, -0.07768604819353958]     Function evaluation: 0.006571539144290983
+
+
+Iteration: 1     Current best unit: [-7.49437059681479, 9.612631795817748]     Function evaluation: 0.22398027864939218
+Iteration: 631     Current best unit: [-3.4504280260929665, 15.069690896226023]     Function evaluation: 0.2136377507801574
+Iteration: 667     Current best unit: [-10.237923131609314, 7.04950842848265]     Function evaluation: 0.1386960311293528
+Iteration: 940     Current best unit: [-7.177624379117012, -5.839295474208498]     Function evaluation: 0.10058192144247607
+Iteration: 1144     Current best unit: [-9.216963947654175, 1.4800795424561597]     Function evaluation: 0.08373987204842043
+Iteration: 1333     Current best unit: [-5.981835330227381, 2.1255192391415014]     Function evaluation: 0.04189402640391704
+Iteration: 2317     Current best unit: [2.1181828653554575, -2.417897306512906]     Function evaluation: 0.01537117766804319
+Iteration: 5494     Current best unit: [-2.379706015783578, 1.956775070526613]     Function evaluation: 0.012968255446224763
+Iteration: 5498     Current best unit: [-1.3165683678378863, 2.895470833591184]     Function evaluation: 0.011466777714651766
+Iteration: 5632     Current best unit: [-2.2393980039663512, 2.1448073810063497]     Function evaluation: 0.011107951217107503
+Iteration: 5666     Current best unit: [-1.4970545341878854, 2.7734799415905274]     Function evaluation: 0.009887920596593935
+Iteration: 5822     Current best unit: [-1.0902098969513239, 2.9490078566247795]     Function evaluation: 0.009746577299615367
+Iteration: 5945     Current best unit: [-1.4538227570609674, 2.787262851773317]     Function evaluation: 0.009741933746975961
+Iteration: 5959     Current best unit: [-0.44076821184408266, 3.1060666361757163]     Function evaluation: 0.009717569557527617
+Iteration: 6144     Current best unit: [-1.2341927368169388, 2.88534996836132]     Function evaluation: 0.009715974524535487
+
+
+Iteration: 1     Current best unit: [-1.837468751272887, -34.651846076229]     Function evaluation: 0.4012618493352196
+Iteration: 52     Current best unit: [3.560595195581371, 8.660110680752162]     Function evaluation: 0.08052801424923123
+Iteration: 1449     Current best unit: [3.453694106371267, 5.2997326787253565]     Function evaluation: 0.03940973650418239
+Iteration: 2430     Current best unit: [6.169027421119437, 1.0910915591024344]     Function evaluation: 0.037365947173872927
+Iteration: 3110     Current best unit: [6.185320519561838, -1.0542895988654009]     Function evaluation: 0.03723042185015912
+Iteration: 3610     Current best unit: [6.226812043800721, 0.7836501967257091]     Function evaluation: 0.037225446326069334
+Iteration: 3920     Current best unit: [6.212621677905071, 0.8963089728233403]     Function evaluation: 0.03722411271304005
+Iteration: 6170     Current best unit: [3.0148110125344445, 0.657499266067338]     Function evaluation: 0.012451986846083285
+Iteration: 17488     Current best unit: [2.8271788879372863, 1.2810308969847801]     Function evaluation: 0.01089217450964125
+Iteration: 18168     Current best unit: [3.119944541728717, 0.22902360500049423]     Function evaluation: 0.009816951494013626
+Iteration: 18274     Current best unit: [2.887114305600026, 1.226246883381891]     Function evaluation: 0.00971891315215384
+Iteration: 18596     Current best unit: [2.133178606467075, 2.3017442267079726]     Function evaluation: 0.009715974420168527
+
+
+Iteration: 1     Current best unit: [15.899758952292459, -30.196124074474852]     Function evaluation: 0.4305655504138245
+Iteration: 107     Current best unit: [-14.644749715315545, -23.880799932981432]     Function evaluation: 0.3638965765984848
+Iteration: 349     Current best unit: [21.67181615475687, 4.3513952007102965]     Function evaluation: 0.2801199573839308
+Iteration: 792     Current best unit: [13.062257850970575, -8.923163741437612]     Function evaluation: 0.18800163723986357
+Iteration: 2319     Current best unit: [5.126754252199756, 2.9813604942066085]     Function evaluation: 0.14467826973625358
+Iteration: 2597     Current best unit: [3.1664229643807857, -8.710401667805947]     Function evaluation: 0.09662707013194072
+Iteration: 3168     Current best unit: [3.8233747394490205, 4.815961666835365]     Function evaluation: 0.05235817134494675
+Iteration: 4113     Current best unit: [-5.645367870466158, -2.9258066822644464]     Function evaluation: 0.043334522605784576
+Iteration: 6687     Current best unit: [-1.301649517672132, 2.824864488725211]     Function evaluation: 0.0104939765482705
+Iteration: 14247     Current best unit: [0.6700815273517595, -3.0894741107678274]     Function evaluation: 0.010226953296368135
+Iteration: 16417     Current best unit: [-3.0134001445377683, -0.9165022243091968]     Function evaluation: 0.009839167523004566
+Iteration: 16618     Current best unit: [0.4003311858486329, 3.1134442734661065]     Function evaluation: 0.009716253323393043
+
+
+Iteration: 1     Current best unit: [15.94990153460681, -0.8313116955754012]     Function evaluation: 0.22568464539740773
+Iteration: 1980     Current best unit: [-3.1506904275791143, 0.12328362725641417]     Function evaluation: 0.009925576498777788
+Iteration: 17979     Current best unit: [1.2407796421812642, -2.870033403686427]     Function evaluation: 0.009850861224889151
+Iteration: 25957     Current best unit: [-2.2242176127729145, 2.204872607636583]     Function evaluation: 0.00975886569350104
+Iteration: 26537     Current best unit: [-2.85042650352818, 1.3234429056774832]     Function evaluation: 0.009733177308878904
+Iteration: 27738     Current best unit: [-1.1700803909794253, 2.9104713815599745]     Function evaluation: 0.00971848040100426
+Iteration: 28290     Current best unit: [-1.7189371318390592, 2.6258701250407626]     Function evaluation: 0.009715910424666241
+
+
+Iteration: 1     Current best unit: [3.633292570880144, 4.587401633680386]     Function evaluation: 0.19591789108026014
+Iteration: 104     Current best unit: [10.261513564330528, 7.57003408096603]     Function evaluation: 0.1551841880440848
+Iteration: 640     Current best unit: [5.81280157402486, 7.4224944702323175]     Function evaluation: 0.0783027871858532
+Iteration: 2026     Current best unit: [-3.063154145869928, 5.616353221526339]     Function evaluation: 0.050525051499526075
+Iteration: 2562     Current best unit: [-1.5359549606101248, -6.026063512152561]     Function evaluation: 0.040385161871942576
+Iteration: 2832     Current best unit: [-1.6387296688237807, 6.070586011908773]     Function evaluation: 0.0373308186454997
+Iteration: 3463     Current best unit: [3.068064428417199, 0.7986627242839939]     Function evaluation: 0.01070963129106739
+Iteration: 3569     Current best unit: [-1.3949036335770053, 2.8068637732032866]     Function evaluation: 0.00973257486875595
+Iteration: 3908     Current best unit: [2.1222418730119252, 2.307791813251094]     Function evaluation: 0.009726159894436037
+Iteration: 4345     Current best unit: [1.872156777765008, 2.521197042465757]     Function evaluation: 0.009719099515089424
+Iteration: 4495     Current best unit: [2.183725539018343, 2.255268535890411]     Function evaluation: 0.009716485252824592
+
+
+Iteration: 1     Current best unit: [-0.06597638767444636, -6.901812148159834]     Function evaluation: 0.3511243111243698
+Iteration: 274     Current best unit: [-11.90084982470789, 1.8709604495370002]     Function evaluation: 0.30655360318150693
+Iteration: 817     Current best unit: [-14.9818430352654, 3.191030077398767]     Function evaluation: 0.26683708464874056
+Iteration: 915     Current best unit: [-6.121387505329681, -0.16382955840381896]     Function evaluation: 0.05895539831371421
+Iteration: 2681     Current best unit: [4.924894272278209, 3.643270729301018]     Function evaluation: 0.058277198995963675
+Iteration: 2714     Current best unit: [3.318954320278891, 0.055164163952063985]     Function evaluation: 0.0414488702744068
+Iteration: 2904     Current best unit: [-0.0688441128412478, -0.032953432496408336]     Function evaluation: 0.005819895099903105
+
+
+Iteration: 1     Current best unit: [-19.05531058582486, 39.98074522571787]     Function evaluation: 0.4534224699919237
+Iteration: 85     Current best unit: [10.020371923216942, -7.873683399661047]     Function evaluation: 0.1529915814101721
+Iteration: 4388     Current best unit: [7.87839340657208, 4.9890853152496]     Function evaluation: 0.08516141846088687
+Iteration: 4827     Current best unit: [3.1146169543387074, 8.848258746217091]     Function evaluation: 0.07926574336715009
+Iteration: 6245     Current best unit: [2.8493132297382004, 5.508013856714935]     Function evaluation: 0.04254253196119462
+Iteration: 8129     Current best unit: [1.7675697731201794, 2.4313274537831524]     Function evaluation: 0.026878455335052287
+Iteration: 8688     Current best unit: [-2.99149318665237, 0.671136068209842]     Function evaluation: 0.014887959546014906
+Iteration: 12246     Current best unit: [0.7679942588208376, 3.051674763706739]     Function evaluation: 0.009784248207514612
+Iteration: 14723     Current best unit: [2.2262351238316365, 2.2096207006952486]     Function evaluation: 0.009719229788674344
+Iteration: 15048     Current best unit: [2.1115121321417254, 2.32129498614739]     Function evaluation: 0.009716163920588383
+
+
+Iteration: 1     Current best unit: [5.195529262256059, 3.8014129713302793]     Function evaluation: 0.06084712851497798
+Iteration: 8518     Current best unit: [2.9256575767732103, 1.5242449209222406]     Function evaluation: 0.03472672569882129
+Iteration: 14168     Current best unit: [2.7560102234874844, 1.3576517072187784]     Function evaluation: 0.014016182118625431
+Iteration: 19707     Current best unit: [-2.2894324037659732, -2.168598713427171]     Function evaluation: 0.009936038213732012
+Iteration: 27767     Current best unit: [2.738499595982378, 1.5272508568963397]     Function evaluation: 0.009724180357291445
+Iteration: 28054     Current best unit: [3.0788353089040026, -0.6155614148881936]     Function evaluation: 0.009717525888816525
+Iteration: 29371     Current best unit: [3.1158389141573286, 0.3718190028328956]     Function evaluation: 0.009716195458516375
+Iteration: 42170     Current best unit: [-0.054261857118589774, -0.03529614727985191]     Function evaluation: 0.004188472994309744
+Iteration: 92895     Current best unit: [-0.024373939062186878, -0.0388999847959006]     Function evaluation: 0.0021079163197270656
+Iteration: 94166     Current best unit: [0.022546181270357124, -0.018022084420404146]     Function evaluation: 0.0008337262131881684
+
+
+Iteration: 1     Current best unit: [5.276194929315238, 11.207871693298202]     Function evaluation: 0.1479345497153225
+Iteration: 1384     Current best unit: [2.9493728130274786, 8.95911353107129]     Function evaluation: 0.0784044909004794
+Iteration: 2398     Current best unit: [1.1587790600053869, -6.203594732287408]     Function evaluation: 0.038278170093062835
+Iteration: 3409     Current best unit: [2.9718850373885743, -0.8893911708598878]     Function evaluation: 0.01101409716489865
+Iteration: 6700     Current best unit: [-2.7738662280384854, 1.4244751480128122]     Function evaluation: 0.010117945050717891
+Iteration: 6779     Current best unit: [-3.0744445616928986, -0.7130293246955519]     Function evaluation: 0.010018508477002919
+Iteration: 7013     Current best unit: [-3.1050199736091333, -0.5579896797698403]     Function evaluation: 0.009975802023314106
+Iteration: 7056     Current best unit: [-2.605805824026237, 1.7324232510261175]     Function evaluation: 0.009801637534296859
+Iteration: 7157     Current best unit: [-2.9672538382097655, 1.0354334124947462]     Function evaluation: 0.009733553075896129
+Iteration: 7387     Current best unit: [-2.3242186288468325, 2.1129780177772313]     Function evaluation: 0.009722753414019458
+Iteration: 7529     Current best unit: [-2.639176585184307, 1.6998890404289189]     Function evaluation: 0.009716481047001513
+
+
+Iteration: 1     Current best unit: [-1.1159311739393303, 3.133528271598827]     Function evaluation: 0.043881320935618806
+Iteration: 2193     Current best unit: [1.9784698098599889, 2.3113315996759254]     Function evaluation: 0.018744848175167472
+Iteration: 2337     Current best unit: [-0.371335303329937, 3.049416891741235]     Function evaluation: 0.014058028232904696
+Iteration: 2631     Current best unit: [1.5375277508145215, 2.664251694054544]     Function evaluation: 0.013536227710480575
+Iteration: 2784     Current best unit: [1.2921158117563922, 2.8539883490633944]     Function evaluation: 0.009746964397230717
+Iteration: 2903     Current best unit: [3.118618559572219, 0.37720224745419617]     Function evaluation: 0.009723952693085569
+Iteration: 2990     Current best unit: [3.1224441252263184, -0.31427492303020155]     Function evaluation: 0.00971597860932183
+
+
+Iteration: 1     Current best unit: [-1.179212435694545, 16.085547003671223]     Function evaluation: 0.2901854301688259
+Iteration: 177     Current best unit: [3.493287548659616, -5.255053050348344]     Function evaluation: 0.038235494760975486
+Iteration: 1603     Current best unit: [2.3648856506400033, -2.2440309233643303]     Function evaluation: 0.02415096162769148
+Iteration: 7597     Current best unit: [-2.10132193957587, 2.2799645300518083]     Function evaluation: 0.0111236051550474
+Iteration: 9203     Current best unit: [-1.8853295141360462, 2.5530104940670526]     Function evaluation: 0.010931834397481077
+Iteration: 12907     Current best unit: [-2.760150205181231, 1.4940426187344793]     Function evaluation: 0.009715916243887734
+
+
+Iteration: 1     Current best unit: [-1.0489329351550865, -12.098908348879768]     Function evaluation: 0.24772055618430616
+Iteration: 27     Current best unit: [-6.533597033156866, 1.1779265489912625]     Function evaluation: 0.1526035159266041
+Iteration: 1079     Current best unit: [8.062263438300832, -5.189350844857842]     Function evaluation: 0.10278854237148033
+Iteration: 5115     Current best unit: [2.330382980111766, 2.112847421096852]     Function evaluation: 0.00976561976852841
+Iteration: 21368     Current best unit: [-3.0893940440523844, -0.550172693703572]     Function evaluation: 0.009716140360256975
+Iteration: 34268     Current best unit: [0.054830750215948854, 0.07011779604706632]     Function evaluation: 0.007909811991241023
+
+
+Iteration: 1     Current best unit: [-44.57854344467156, 13.483611132020812]     Function evaluation: 0.47748657125232574
+Iteration: 20     Current best unit: [-28.01250623054281, -5.297999668782429]     Function evaluation: 0.36431287859521977
+Iteration: 456     Current best unit: [-0.783004512974752, 3.372183446579726]     Function evaluation: 0.10857132416230286
+Iteration: 665     Current best unit: [4.7704105829149235, 3.901531294617904]     Function evaluation: 0.04933046863238866
+Iteration: 1125     Current best unit: [-4.982402094275302, 3.6744232001432775]     Function evaluation: 0.04412792671981969
+Iteration: 1127     Current best unit: [-0.26655874643000876, 3.141675330010401]     Function evaluation: 0.009921630614026566
+Iteration: 1716     Current best unit: [-0.8673986711620367, 3.017432514915495]     Function evaluation: 0.009717198151431905
+Iteration: 2155     Current best unit: [-0.8014982796203431, 3.034347639475511]     Function evaluation: 0.00971591431171931
+
+
+Iteration: 1     Current best unit: [3.3384803870565065, -9.376928233993077]     Function evaluation: 0.29672591341796467
+Iteration: 267     Current best unit: [5.103558217168503, -11.708819683182206]     Function evaluation: 0.161457319381269
+Iteration: 538     Current best unit: [2.275688495529872, -9.25752805103747]     Function evaluation: 0.08966627314416176
+Iteration: 734     Current best unit: [2.849343184259504, -8.89051836390272]     Function evaluation: 0.08361596957146578
+Iteration: 1058     Current best unit: [9.37314940625396, -0.4982223017489922]     Function evaluation: 0.0789368383494381
+Iteration: 1489     Current best unit: [2.882644344823012, -8.947168848173439]     Function evaluation: 0.07840683412320487
+Iteration: 1863     Current best unit: [0.2901104996469277, -6.399932906538423]     Function evaluation: 0.05260923659146027
+Iteration: 2112     Current best unit: [4.831396356875202, -3.984508086557048]     Function evaluation: 0.03742331736012028
+Iteration: 2147     Current best unit: [6.050634591872976, -1.675988680394911]     Function evaluation: 0.03722568485086247
+Iteration: 2870     Current best unit: [6.258676687951171, 0.4762061655596592]     Function evaluation: 0.03722420835939039
+Iteration: 2888     Current best unit: [-0.9594668441594403, 3.1330775017003774]     Function evaluation: 0.028325596813762788
+Iteration: 4974     Current best unit: [3.0523085947102935, 0.6079575754222475]     Function evaluation: 0.010390645992814362
+Iteration: 7027     Current best unit: [2.79756845678028, -1.3986410447108368]     Function evaluation: 0.009829816588709905
+Iteration: 7363     Current best unit: [2.423250551047309, 1.999648641413277]     Function evaluation: 0.009726522619385614
+Iteration: 7711     Current best unit: [1.8817024802542328, 2.5091765853803585]     Function evaluation: 0.009720330048562764
+Iteration: 7789     Current best unit: [2.9680411339192374, 1.0224489417417375]     Function evaluation: 0.009716433018471304
+
+
+Iteration: 1     Current best unit: [-12.901436822718068, 2.069344407122543]     Function evaluation: 0.3028783196545445
+Iteration: 746     Current best unit: [-19.80723925147403, -9.063658691469088]     Function evaluation: 0.289755971782493
+Iteration: 1555     Current best unit: [-6.72154103727039, -6.1752471858186775]     Function evaluation: 0.14701980222322314
+Iteration: 2779     Current best unit: [-10.152753319088873, -7.211912849466586]     Function evaluation: 0.13475794003751523
+Iteration: 2989     Current best unit: [3.6120060461630565, 5.085507761527914]     Function evaluation: 0.03866546425643419
+Iteration: 7304     Current best unit: [0.9261013016236745, 2.8623389532833654]     Function evaluation: 0.0262423023771145
+Iteration: 11542     Current best unit: [0.4588058814889848, 3.1764479196801254]     Function evaluation: 0.014642564603188635
+Iteration: 11642     Current best unit: [-3.1133888524224247, -0.5317397679601471]     Function evaluation: 0.0101078625362927
+Iteration: 13860     Current best unit: [1.3822226253925631, 2.8248950465223284]     Function evaluation: 0.009756654639368256
+Iteration: 15419     Current best unit: [2.4628278287443925, 1.946735519552467]     Function evaluation: 0.009716586729494714
+
+
+Iteration: 1     Current best unit: [-5.755807170113478, 1.31037047919056]     Function evaluation: 0.1616443927666561
+Iteration: 906     Current best unit: [-9.681419850506716, -8.311668102698235]     Function evaluation: 0.1575555910493171
+Iteration: 1037     Current best unit: [6.049404605748443, 0.9645772090093825]     Function evaluation: 0.058329191924535284
+Iteration: 7694     Current best unit: [-2.6091817997902056, -5.81762832214144]     Function evaluation: 0.046223400840152085
+Iteration: 8070     Current best unit: [-0.8360973119455657, -3.1032737334855733]     Function evaluation: 0.015289258105537662
+Iteration: 10117     Current best unit: [-2.9633523919678506, -1.0103079538790751]     Function evaluation: 0.009773228863833194
+Iteration: 12305     Current best unit: [0.8460471904380253, -3.027666078816005]     Function evaluation: 0.009742131731146464
+Iteration: 15649     Current best unit: [-2.2191690284316397, -2.22054832973329]     Function evaluation: 0.009716652096875555
+Iteration: 52486     Current best unit: [-0.06034306113016186, -0.012827544788137933]     Function evaluation: 0.003804782142226848
+Iteration: 62401     Current best unit: [0.05174871028503958, 0.011206110686144343]     Function evaluation: 0.0028036748197571293
+Iteration: 67320     Current best unit: [0.04029381495933393, 0.01851642272583312]     Function evaluation: 0.001967119512870541
+Iteration: 78684     Current best unit: [-0.02642895972175552, 0.023054122275289447]     Function evaluation: 0.0012307052186592005
+
+
+Iteration: 1     Current best unit: [-10.122996640116888, -43.43583261716262]     Function evaluation: 0.481565668607552
+Iteration: 9     Current best unit: [-25.08761438947792, -39.2850839605694]     Function evaluation: 0.47413842579295273
+Iteration: 178     Current best unit: [-24.23294396055327, -32.3968771359775]     Function evaluation: 0.44821204070331866
+Iteration: 366     Current best unit: [-18.260341965051154, -36.703653289130834]     Function evaluation: 0.43370765546360723
+Iteration: 523     Current best unit: [-24.59533814184981, 1.2090523457483329]     Function evaluation: 0.39783487365297154
+Iteration: 977     Current best unit: [-34.29848638347167, -3.4403078166974206]     Function evaluation: 0.3971531510271833
+Iteration: 1006     Current best unit: [-21.614257510354918, 5.0477476615698205]     Function evaluation: 0.29413206389112306
+Iteration: 1063     Current best unit: [-21.826987944129538, 3.672912683508164]     Function evaluation: 0.28386954392627184
+Iteration: 1127     Current best unit: [-14.79890376466935, 3.8445139278457416]     Function evaluation: 0.27970775149071603
+Iteration: 1182     Current best unit: [-18.509052826777378, 2.2602991921119697]     Function evaluation: 0.24709099481989827
+Iteration: 1189     Current best unit: [-15.61170962313854, 0.22213904849165259]     Function evaluation: 0.1825653597779714
+Iteration: 1325     Current best unit: [-11.017763996968375, 5.711802608005261]     Function evaluation: 0.14269457616644804
+Iteration: 1415     Current best unit: [-9.150281774993353, -1.471779619472693]     Function evaluation: 0.09667439782316173
+Iteration: 2076     Current best unit: [-3.08379413570605, -0.13205015795567066]     Function evaluation: 0.012355009193334932
+Iteration: 4684     Current best unit: [-3.1764433876751954, -0.0615641462629275]     Function evaluation: 0.011173800661835931
+Iteration: 4758     Current best unit: [-3.0673404305560963, 0.6499519873364054]     Function evaluation: 0.009724980604581324
+Iteration: 5090     Current best unit: [-3.0661635375999086, 0.6631771767035023]     Function evaluation: 0.00971789484367186
+Iteration: 5194     Current best unit: [-3.0634189538712358, 0.680200350441624]     Function evaluation: 0.009716116365848126
+
+
+Iteration: 1     Current best unit: [-12.795951548924187, 21.524716653682844]     Function evaluation: 0.3143006272003114
+Iteration: 301     Current best unit: [-12.879135287004239, 0.5323458555892939]     Function evaluation: 0.20675458456227253
+Iteration: 929     Current best unit: [9.502348648979435, 1.125356676428055]     Function evaluation: 0.09764041823215353
+Iteration: 3576     Current best unit: [-6.150595218020669, -1.6494252074275142]     Function evaluation: 0.04482648235654274
+Iteration: 3700     Current best unit: [-6.182180375867928, -0.9692114715952109]     Function evaluation: 0.03757475476754579
+Iteration: 4246     Current best unit: [2.726841128649241, -1.748335263425858]     Function evaluation: 0.019627979810586726
+Iteration: 4733     Current best unit: [-1.712470285298664, 2.5544576922029525]     Function evaluation: 0.013624606719106536
+Iteration: 7127     Current best unit: [-0.05628857266547982, 3.1251677945893594]     Function evaluation: 0.009876991773086097
+Iteration: 7469     Current best unit: [-1.3990362137249632, 2.8031248536469344]     Function evaluation: 0.009746967032238596
+Iteration: 7517     Current best unit: [-1.8713909563880644, 2.5168033230980478]     Function evaluation: 0.0097205780243928
+Iteration: 7777     Current best unit: [-1.295194258045092, 2.8569683246112483]     Function evaluation: 0.009718549530466358
+Iteration: 8126     Current best unit: [-0.14474531688422293, 3.134763538183094]     Function evaluation: 0.009716052594167246
+Iteration: 33243     Current best unit: [-0.08159265135982989, 0.009522965043885279]     Function evaluation: 0.006739539666520189
+Iteration: 50240     Current best unit: [-0.04289602026728477, -0.06946129646409971]     Function evaluation: 0.006656722499444101
+Iteration: 50242     Current best unit: [-0.0794469610054592, -0.016541478901296838]     Function evaluation: 0.006577495647359932
+Iteration: 50280     Current best unit: [-0.023737368537590602, -0.07675135655485088]     Function evaluation: 0.0064467306691036175
+Iteration: 50381     Current best unit: [-0.025518406052166813, -0.073014915327212]     Function evaluation: 0.005976357727013826
+Iteration: 50578     Current best unit: [-0.05633114482530555, -0.04929251159424651]     Function evaluation: 0.0055980332770808605
+Iteration: 50691     Current best unit: [-0.06813824896638525, -0.026250928349482283]     Function evaluation: 0.0053277375775582225
+Iteration: 50840     Current best unit: [-0.05284928346233741, -0.049923839089926154]     Function evaluation: 0.005281360707308835
+Iteration: 50859     Current best unit: [-0.0524634297563779, -0.050076789021985854]     Function evaluation: 0.005256084670586969
+Iteration: 51493     Current best unit: [-0.04478125564788793, -0.057024024734655974]     Function evaluation: 0.005253096223420517
+Iteration: 51584     Current best unit: [-0.03664449486563073, -0.05828484836933948]     Function evaluation: 0.004737153312335873
+Iteration: 51742     Current best unit: [-0.05283616566614833, -0.04188270444915682]     Function evaluation: 0.004543441868257336
+Iteration: 51975     Current best unit: [-0.05553279499215345, -0.03527188921583701]     Function evaluation: 0.0043260477969374045
+Iteration: 52284     Current best unit: [-0.00019753858422343756, -0.06430835914267859]     Function evaluation: 0.004134007565465447
+Iteration: 52351     Current best unit: [-0.06325590941162135, 0.003184255586702704]     Function evaluation: 0.004010067803233541
+Iteration: 52369     Current best unit: [-0.0559605092865942, -0.02871574657662622]     Function evaluation: 0.003954883239506324
+Iteration: 52427     Current best unit: [-0.057938148865164636, -0.02124625643294481]     Function evaluation: 0.0038071799911507664
+Iteration: 52519     Current best unit: [-0.017896804213872037, -0.05693750145859264]     Function evaluation: 0.003561483793411535
+Iteration: 52589     Current best unit: [-0.02050115353946414, -0.054131038591654]     Function evaluation: 0.0033500544548246136
+Iteration: 52898     Current best unit: [-0.056060647197507814, -0.009828432675043956]     Function evaluation: 0.0032391162857161038
+Iteration: 53103     Current best unit: [-0.05503964776797784, -0.013315863255836648]     Function evaluation: 0.0032064350337102643
+Iteration: 53121     Current best unit: [-0.024683230493946096, -0.049998696809247574]     Function evaluation: 0.003109000456495037
+Iteration: 53341     Current best unit: [-0.043675808050960475, -0.029362992209236334]     Function evaluation: 0.002769959692691948
+Iteration: 53792     Current best unit: [-0.016360833113882763, -0.048629120377390124]     Function evaluation: 0.0026327776667852687
+Iteration: 54172     Current best unit: [-0.004182267075915118, -0.04937566244834116]     Function evaluation: 0.0024558817071446692
+Iteration: 54228     Current best unit: [-0.04766702818724448, -0.01010258797394118]     Function evaluation: 0.002374692434994885
+Iteration: 54637     Current best unit: [-0.03164168132042174, -0.036848247143143525]     Function evaluation: 0.0023594828142117774
+Iteration: 54795     Current best unit: [-0.04071848419636306, -0.025891140881464277]     Function evaluation: 0.002328857131119022
+Iteration: 55175     Current best unit: [-0.040415484787109705, -0.022854990501608073]     Function evaluation: 0.0021563598104525905
+Iteration: 55281     Current best unit: [-0.03855808264001532, -0.025603947561714527]     Function evaluation: 0.0021428916141881804
+Iteration: 55289     Current best unit: [-0.027415980252407435, -0.03700021866459778]     Function evaluation: 0.0021212651805029847
+Iteration: 55316     Current best unit: [-0.041162230775478724, -0.01544641038753329]     Function evaluation: 0.0019336012105772848
+Iteration: 55647     Current best unit: [-0.01560021771303998, -0.03935845912998276]     Function evaluation: 0.0017931704169532048
+Iteration: 55773     Current best unit: [-0.014740522795125905, -0.03804043048591857]     Function evaluation: 0.0016650930230235894
+Iteration: 56740     Current best unit: [-0.005924726789420275, -0.040295228688969835]     Function evaluation: 0.0016595441344639528
+Iteration: 56890     Current best unit: [-0.022284625191304405, -0.031214929883468315]     Function evaluation: 0.0014717218995443093
+Iteration: 57463     Current best unit: [-0.008285208846483295, -0.037293766747388185]     Function evaluation: 0.001460215053205316
+Iteration: 57668     Current best unit: [-0.017139514151377877, -0.03396978610435137]     Function evaluation: 0.0014484543438845754
+Iteration: 57815     Current best unit: [-0.01982035166974947, -0.03107917215837758]     Function evaluation: 0.001359501050832046
+Iteration: 58112     Current best unit: [-0.021033662601188295, -0.029952549018619424]     Function evaluation: 0.001340308092734499
+Iteration: 58206     Current best unit: [-0.0146914333437757, -0.03323074287299833]     Function evaluation: 0.0013208563157686704
+Iteration: 58223     Current best unit: [-0.02955378808132603, -0.02100096931988429]     Function evaluation: 0.001315202272391236
+Iteration: 58324     Current best unit: [-0.009058696781344988, -0.034966651509997525]     Function evaluation: 0.0013054606876590213
+Iteration: 58334     Current best unit: [-0.02115676234962625, -0.028981167946678762]     Function evaluation: 0.0012882484173467046
+Iteration: 58336     Current best unit: [-0.020942137333090277, -0.028766243694882593]     Function evaluation: 0.0012667985345700683
+Iteration: 58340     Current best unit: [-0.032791048234788976, -0.012319199139064055]     Function evaluation: 0.0012277377415291224
+Iteration: 58409     Current best unit: [-0.021590306220720494, -0.02699580157287679]     Function evaluation: 0.0011956308187512366
+Iteration: 58439     Current best unit: [-0.013295526793123912, -0.03185654366096418]     Function evaluation: 0.0011923259396755537
+Iteration: 58448     Current best unit: [-0.02749247236834843, -0.020844334381600868]     Function evaluation: 0.0011910375861996503
+Iteration: 58562     Current best unit: [-0.03387265741621201, 0.006161767163817899]     Function evaluation: 0.0011860385511145988
+Iteration: 58582     Current best unit: [-0.026550960365710856, -0.021742271734541765]     Function evaluation: 0.0011783925441739007
+Iteration: 58586     Current best unit: [-0.028350990911029043, -0.016725636766296414]     Function evaluation: 0.0010842155014710864
+Iteration: 58734     Current best unit: [-0.02748143254012004, -0.01508220351355454]     Function evaluation: 0.0009833609081621453
+Iteration: 58863     Current best unit: [-0.024973606917013304, -0.018134665735874345]     Function evaluation: 0.0009531954651900154
+Iteration: 59115     Current best unit: [-0.024401706228157242, -0.018804696365175552]     Function evaluation: 0.0009497069296722227
+Iteration: 59120     Current best unit: [-0.020764585037021315, -0.02137087174625356]     Function evaluation: 0.0008885057085910031
+Iteration: 59296     Current best unit: [-0.015275217104515801, -0.024992491708866495]     Function evaluation: 0.000858568048165198
+Iteration: 59373     Current best unit: [-0.026073738523821964, -0.009758537956335673]     Function evaluation: 0.0007756425472620343
+Iteration: 59582     Current best unit: [-0.015419916529453986, -0.023015488969327712]     Function evaluation: 0.0007680565410643214
+Iteration: 59649     Current best unit: [-0.013669842865283709, -0.023230741784312677]     Function evaluation: 0.000727081511023242
+Iteration: 60029     Current best unit: [-0.0046972852845634135, -0.026458685700828675]     Function evaluation: 0.0007226738156240198
+Iteration: 60038     Current best unit: [-0.017899917122198874, -0.01821416795629322]     Function evaluation: 0.0006526724993410338
+Iteration: 60473     Current best unit: [-0.01804690766594643, -0.01720316079943103]     Function evaluation: 0.0006221316828595724
+Iteration: 60772     Current best unit: [-0.013698535988065709, -0.020303474015451576]     Function evaluation: 0.000600360163359348
+Iteration: 60818     Current best unit: [-0.005905365005203234, -0.023561290459497734]     Function evaluation: 0.0005904810278511974
+Iteration: 60844     Current best unit: [-0.01955033378042313, -0.013982306472554069]     Function evaluation: 0.0005781862527021175
+Iteration: 60871     Current best unit: [-0.019118405771329526, -0.01232550877239785]     Function evaluation: 0.0005178592625630363
+Iteration: 61169     Current best unit: [-0.0020197849902825974, -0.02216678224914295]     Function evaluation: 0.0004958589044703476
+Iteration: 61322     Current best unit: [-0.015765576195506024, -0.015391002983576908]     Function evaluation: 0.00048584278600405373
+Iteration: 61477     Current best unit: [-0.019697957084080113, -0.007998664340749483]     Function evaluation: 0.0004523716301783609
+Iteration: 61562     Current best unit: [-0.0137587144775623, -0.01587799966611737]     Function evaluation: 0.00044178917595893985
+Iteration: 61969     Current best unit: [-0.012459784147568615, -0.015896779262593145]     Function evaluation: 0.00040830596026258936
+Iteration: 62023     Current best unit: [-0.01260814455377357, -0.012408353186556673]     Function evaluation: 0.00031321263355332807
+Iteration: 63225     Current best unit: [-0.013819329141191801, -0.010380339885591937]     Function evaluation: 0.00029899411635775364
+Iteration: 63580     Current best unit: [-0.007369544975040977, -0.015468466538623868]     Function evaluation: 0.000293848332022284
+Iteration: 63682     Current best unit: [-0.015353218085402222, -0.006943020675994974]     Function evaluation: 0.0002841837367257294
+Iteration: 63811     Current best unit: [-0.007023544459594875, -0.01513017567745827]     Function evaluation: 0.00027850468307522025
+Iteration: 63815     Current best unit: [-0.012791120493637414, -0.010576561092629087]     Function evaluation: 0.00027572643774131933
+Iteration: 64006     Current best unit: [-0.012540048975097508, -0.010615773823125084]     Function evaluation: 0.00027019299413083564
+Iteration: 64066     Current best unit: [-0.012047723487500758, -0.01057843816965169]     Function evaluation: 0.00025728588978113365
+Iteration: 64266     Current best unit: [-0.015521510761102305, -0.0024858789323469513]     Function evaluation: 0.0002473235134478058
+Iteration: 64332     Current best unit: [-0.010952974999967762, -0.011195934921058267]     Function evaluation: 0.00024554175686047897
+Iteration: 64334     Current best unit: [-0.010244118819129129, -0.010993702613615932]     Function evaluation: 0.00022601217373774407
+Iteration: 64564     Current best unit: [-0.01034142783932791, -0.01058867305996426]     Function evaluation: 0.00021926809996702934
+Iteration: 64730     Current best unit: [-0.012970362342745395, -0.006386349367075494]     Function evaluation: 0.00020921012374036652
+Iteration: 64749     Current best unit: [-0.006385748762730414, -0.012279100464151732]     Function evaluation: 0.00019173334545047327
+Iteration: 64766     Current best unit: [-0.00574759998687884, -0.012448668634966078]     Function evaluation: 0.0001881804083374572
+Iteration: 64906     Current best unit: [-0.01290284013033355, -0.003917420669920342]     Function evaluation: 0.0001820002110480834
+Iteration: 65099     Current best unit: [-0.01314986476460243, -0.0012094406738175564]     Function evaluation: 0.00017454587481186
+Iteration: 65186     Current best unit: [-0.010792051112168919, -0.006249208065884453]     Function evaluation: 0.0001556683791296143
+Iteration: 65990     Current best unit: [-0.011600286718985347, -0.003112845970962192]     Function evaluation: 0.00014439374030583707
+Iteration: 66041     Current best unit: [-0.009384132841898336, -0.0055674540184422]     Function evaluation: 0.00011917279866546782
+Iteration: 66494     Current best unit: [-0.0037436162601556192, -0.010176663887015838]     Function evaluation: 0.00011769209384054902
+Iteration: 66550     Current best unit: [-0.01049291945559749, -0.0020267403721508557]     Function evaluation: 0.00011431887033214183
+Iteration: 66712     Current best unit: [-0.009681679522661944, -0.0023010428414317165]     Function evaluation: 9.91254577077938e-05
+Iteration: 66719     Current best unit: [-0.009691187897436082, -0.0015715059166047426]     Function evaluation: 9.64820269772626e-05
+Iteration: 66861     Current best unit: [-0.0034022469650581634, -0.008365418807219256]     Function evaluation: 8.163484135886856e-05
+Iteration: 69070     Current best unit: [-0.007823792720186276, -0.0037827337848741274]     Function evaluation: 7.559441569637837e-05
+Iteration: 69205     Current best unit: [-0.003197216938715236, -0.007719343608761199]     Function evaluation: 6.987863812601969e-05
+Iteration: 69360     Current best unit: [-0.003530525059434118, -0.00723680487208372]     Function evaluation: 6.489937826892334e-05
+Iteration: 69658     Current best unit: [-0.007642035076758541, -0.002190819352917639]     Function evaluation: 6.326225052821766e-05
+Iteration: 69716     Current best unit: [-0.007667738974376581, -0.0010196363799768464]     Function evaluation: 5.9892512685677524e-05
+Iteration: 69891     Current best unit: [-0.0007114650276232141, -0.0073036726979489475]     Function evaluation: 5.3902694783725114e-05
+Iteration: 70198     Current best unit: [-0.0031384410493037035, -0.006050166005364399]     Function evaluation: 4.6500051583908686e-05
+Iteration: 70851     Current best unit: [-0.004278477172270441, -0.0047959820968113956]     Function evaluation: 4.134754583490219e-05
+Iteration: 71396     Current best unit: [-0.004226625828575749, -0.004396947999158157]     Function evaluation: 3.7234251134055096e-05
+Iteration: 71637     Current best unit: [-0.00392859902074936, -0.004503805420137271]     Function evaluation: 3.57534438683027e-05
+Iteration: 71926     Current best unit: [-0.004747574529287132, -0.0030894649201441667]     Function evaluation: 3.2115996469406216e-05
+Iteration: 72157     Current best unit: [-0.0032569613249906456, -0.004516800024511301]     Function evaluation: 3.103996636505402e-05
+Iteration: 72433     Current best unit: [-0.004768656097301791, -0.002164083213823809]     Function evaluation: 2.7450508283732855e-05
+Iteration: 72836     Current best unit: [-0.0005494313811654369, -0.004888946129934225]     Function evaluation: 2.422767632870304e-05
+Iteration: 73617     Current best unit: [-0.004673496773860269, -0.0010482913795443875]     Function evaluation: 2.2963250923713208e-05
+Iteration: 74511     Current best unit: [-0.0023251334318224043, -0.0035877926028929146]     Function evaluation: 1.8296667702089042e-05
+Iteration: 74962     Current best unit: [-0.003782556912065846, -0.0016553969368631404]     Function evaluation: 1.706502642695451e-05
+Iteration: 75267     Current best unit: [-0.0035480595392454943, -0.0018403802171055247]     Function evaluation: 1.5991615978094842e-05
+Iteration: 75731     Current best unit: [-0.003351069082590333, -0.0017079292546000554]     Function evaluation: 1.416076591126414e-05
+Iteration: 75817     Current best unit: [-0.0033568014102872616, -0.00108561932082515]     Function evaluation: 1.2459079752946689e-05
+Iteration: 76544     Current best unit: [-0.002910252294179389, -0.0012739305968994133]     Function evaluation: 1.0102525892563552e-05
+Iteration: 77460     Current best unit: [-0.0010938920787065373, -0.0026550906183047647]     Function evaluation: 8.254329375123604e-06
+Iteration: 78210     Current best unit: [-0.0023286433980108444, -0.001106066527532484]     Function evaluation: 6.652594390421651e-06
+Iteration: 79444     Current best unit: [-0.0012331148163534816, -0.0017530021029593884]     Function evaluation: 4.598175036008012e-06
+Iteration: 80918     Current best unit: [-0.0017014013975781023, -0.0006709172419471048]     Function evaluation: 3.3482378059557227e-06
+Iteration: 82003     Current best unit: [-0.0013266736351536517, -0.0006698042608283582]     Function evaluation: 2.210907746935664e-06
+Iteration: 85291     Current best unit: [-0.0009192510372947013, -0.0005654664120745203]     Function evaluation: 1.1659390525275981e-06
+
+OPTIMUM HAS BEEN FOUND!
+
+
+
+Iteration: 1     Current best unit: [-22.73449787051549, -16.33567873974293]     Function evaluation: 0.36676534909653147
+Iteration: 153     Current best unit: [-11.891807067955465, 25.457227057422582]     Function evaluation: 0.35349315296502026
+Iteration: 207     Current best unit: [-0.9880823311732296, 21.834318962436015]     Function evaluation: 0.27925698125903325
+Iteration: 436     Current best unit: [4.973771044024879, 21.470801175543222]     Function evaluation: 0.27454211635619924
+Iteration: 1015     Current best unit: [0.4162043830297988, 6.753254709570157]     Function evaluation: 0.2399602389335404
+Iteration: 1787     Current best unit: [-14.955155752694862, -4.483225724304553]     Function evaluation: 0.18262933819691712
+Iteration: 2603     Current best unit: [-4.702756759752514, 11.848966702177602]     Function evaluation: 0.15419216114620582
+Iteration: 3623     Current best unit: [-5.323491690456849, 3.1356127926144737]     Function evaluation: 0.04625788370588718
+Iteration: 5201     Current best unit: [-1.3664265110249976, 6.157841369765648]     Function evaluation: 0.038084055056953114
+Iteration: 5287     Current best unit: [-2.350244278870882, 2.0908061180929813]     Function evaluation: 0.00976630899530223
+Iteration: 9993     Current best unit: [1.6745259202542506, 2.6623294825884996]     Function evaluation: 0.009759651215669296
+Iteration: 10116     Current best unit: [2.7632345352472205, 1.4869178314558635]     Function evaluation: 0.009716250485720779
+Iteration: 22950     Current best unit: [-0.06405631672159728, -0.01787849294728948]     Function evaluation: 0.004420719282988594
+
+
+Iteration: 1     Current best unit: [-13.243492246394048, 8.098946615695347]     Function evaluation: 0.19714816105713007
+Iteration: 521     Current best unit: [-9.083293026270198, 1.487113224124331]     Function evaluation: 0.11572812543611866
+Iteration: 1127     Current best unit: [7.275254641344375, -5.764930588959409]     Function evaluation: 0.09323872700627994
+Iteration: 3491     Current best unit: [7.1200753977886535, -6.310027170521761]     Function evaluation: 0.0861977134603325
+Iteration: 9547     Current best unit: [5.854605715371299, 2.148355346097271]     Function evaluation: 0.038767611797982104
+Iteration: 9644     Current best unit: [-2.242302117235816, 2.3152904431849093]     Function evaluation: 0.016724797920928514
+Iteration: 13414     Current best unit: [-1.5033625802506805, 2.820739844846211]     Function evaluation: 0.012997617284258023
+Iteration: 13481     Current best unit: [-1.3941257768192874, 2.7622360853401267]     Function evaluation: 0.01164790035293034
+Iteration: 14744     Current best unit: [0.4059257924584827, 3.139301327515906]     Function evaluation: 0.010428577009629014
+Iteration: 17678     Current best unit: [3.135318366721733, 0.008648888273753208]     Function evaluation: 0.009725677617390294
+Iteration: 19388     Current best unit: [0.36208812204068064, 3.1160281377593364]     Function evaluation: 0.009718087823424426
+Iteration: 22091     Current best unit: [0.4486890554733718, 3.106823920385745]     Function evaluation: 0.009716230849300955
+Iteration: 95270     Current best unit: [-0.05955539441465094, 0.05411581777708108]     Function evaluation: 0.006467793632598473
+
+
+Iteration: 1     Current best unit: [11.349815184972336, 18.871767655383877]     Function evaluation: 0.2736814806807635
+Iteration: 1018     Current best unit: [-16.66456919792563, 9.120354204484013]     Function evaluation: 0.24168906846340232
+Iteration: 1235     Current best unit: [-4.717273008231157, 8.122768319836954]     Function evaluation: 0.07863372334792773
+Iteration: 3254     Current best unit: [3.787206202547388, 5.059422644801634]     Function evaluation: 0.03891261458721351
+Iteration: 3613     Current best unit: [3.063641887597272, 5.5178513684849655]     Function evaluation: 0.038304191518716224
+Iteration: 3752     Current best unit: [3.38515327167058, 5.321227154470699]     Function evaluation: 0.038033792061137106
+Iteration: 3818     Current best unit: [3.142284169175348, 5.446404841593463]     Function evaluation: 0.037330543758568924
+Iteration: 3866     Current best unit: [2.7128549624631173, 5.649735102419784]     Function evaluation: 0.03731385581493629
+Iteration: 3889     Current best unit: [3.1563585789862416, 5.436333115998957]     Function evaluation: 0.037300014630204326
+Iteration: 3954     Current best unit: [1.45174808789381, 6.103333433254288]     Function evaluation: 0.03723562680637743
+Iteration: 3994     Current best unit: [4.651925136271826, 4.211784804999914]     Function evaluation: 0.037227193506861656
+Iteration: 4042     Current best unit: [1.9659442732976111, 5.961003571870382]     Function evaluation: 0.03722417232844588
+Iteration: 5677     Current best unit: [0.6719685267787767, 3.083172433814422]     Function evaluation: 0.010001681461716427
+Iteration: 16560     Current best unit: [0.4650768113963643, 3.0956083615514456]     Function evaluation: 0.009780876807494676
+Iteration: 16575     Current best unit: [1.3151004723544497, 2.840854157835868]     Function evaluation: 0.009778716411141197
+Iteration: 16731     Current best unit: [-0.23866122102467707, 3.133728295841622]     Function evaluation: 0.009734213935076785
+Iteration: 16769     Current best unit: [0.9771040516684905, 2.985523638464689]     Function evaluation: 0.009723971010188959
+Iteration: 16793     Current best unit: [-0.245766063277354, 3.1294774338462834]     Function evaluation: 0.009716297115894668
+
+
+Iteration: 1     Current best unit: [-1.4999759668713253, 15.462639124310812]     Function evaluation: 0.1946938676561536
+Iteration: 183     Current best unit: [-11.634864790018867, 10.564383140859093]     Function evaluation: 0.17848253740232195
+Iteration: 859     Current best unit: [-11.45445893429956, -10.7014487296994]     Function evaluation: 0.17847335132255254
+Iteration: 887     Current best unit: [0.18673670858875635, 9.411968382350587]     Function evaluation: 0.0781936845677394
+Iteration: 937     Current best unit: [-4.717298139478469, 4.056510943204428]     Function evaluation: 0.04008335856626327
+Iteration: 1203     Current best unit: [2.8740413163841207, 0.9169048160408537]     Function evaluation: 0.024202652682795867
+Iteration: 3475     Current best unit: [-3.00253598723465, 1.0664376333318344]     Function evaluation: 0.01195748876919811
+Iteration: 13353     Current best unit: [1.1905153087448843, -2.926173933249067]     Function evaluation: 0.010132337132543967
+Iteration: 13484     Current best unit: [2.982848428676803, -0.9347671681238324]     Function evaluation: 0.009871676880140845
+Iteration: 13597     Current best unit: [3.1174565837442434, -0.28818014128846575]     Function evaluation: 0.009774666231347984
+Iteration: 13688     Current best unit: [2.9650840516408974, -1.039107791441261]     Function evaluation: 0.009727286301576488
+Iteration: 13932     Current best unit: [2.9333499721821465, 1.1107052710277383]     Function evaluation: 0.009719427290140692
+Iteration: 14110     Current best unit: [2.95809358293356, 1.0445515000869139]     Function evaluation: 0.009717788333498512
+Iteration: 14404     Current best unit: [2.9379130701153247, -1.106302120143622]     Function evaluation: 0.009716570597219532
+
+
+Iteration: 1     Current best unit: [2.5755519761148733, 5.428225008418821]     Function evaluation: 0.10289082325155163
+Iteration: 2420     Current best unit: [1.744146307930587, -2.6057564132224513]     Function evaluation: 0.009724055784821717
+Iteration: 8222     Current best unit: [3.095642388691319, 0.515255672718107]     Function evaluation: 0.009715973401243583
+Iteration: 25774     Current best unit: [0.0825499197961932, 0.010280215005790296]     Function evaluation: 0.006911048417675203
+Iteration: 52642     Current best unit: [-0.044931520224842814, 0.002707625259307877]     Function evaluation: 0.0020268226166445524
+Iteration: 60823     Current best unit: [-0.03647204291996786, 0.0018857175874822435]     Function evaluation: 0.0013345031808109087
+Iteration: 64833     Current best unit: [-0.013659843791467605, 0.020519263895098217]     Function evaluation: 0.0006081153538392559
+Iteration: 88163     Current best unit: [-0.015141806922552278, -0.01854190868555938]     Function evaluation: 0.0005735396501427847
+Iteration: 88912     Current best unit: [-0.01816952288690673, -0.014478949162318722]     Function evaluation: 0.0005402136084960985
+Iteration: 89341     Current best unit: [-0.018535672157425548, -0.010986279969695034]     Function evaluation: 0.0004646614837691687
+Iteration: 89938     Current best unit: [-0.020475396271641386, -0.005188444914554568]     Function evaluation: 0.000446541227057895
+Iteration: 90658     Current best unit: [-0.017043307984548714, -0.011431475857348465]     Function evaluation: 0.00042151466540535365
+Iteration: 90698     Current best unit: [0.007344525800824897, -0.018366300129902563]     Function evaluation: 0.0003916029701172552
+Iteration: 91811     Current best unit: [-0.017477305252575653, -0.007538785239347617]     Function evaluation: 0.000362607759476552
+Iteration: 92020     Current best unit: [-0.013492190563915797, -0.012778924280769434]     Function evaluation: 0.0003456454619938931
+Iteration: 92405     Current best unit: [-0.017498443976776, -0.006030116436192139]     Function evaluation: 0.0003428610553412592
+Iteration: 92548     Current best unit: [-0.0014731780195372246, -0.01816962475936921]     Function evaluation: 0.0003326007945411158
+Iteration: 92859     Current best unit: [-0.005641287136789233, -0.01727604170601023]     Function evaluation: 0.0003305794437201137
+Iteration: 93075     Current best unit: [-0.010086200103406776, -0.014222583185688828]     Function evaluation: 0.00030428632655565835
+Iteration: 93905     Current best unit: [-0.015429022710803998, -0.007791080250677224]     Function evaluation: 0.00029902449986468627
+Iteration: 94132     Current best unit: [-0.005570622373424629, -0.015952758797061314]     Function evaluation: 0.0002857805327562968
+Iteration: 94376     Current best unit: [-0.008101920368479393, -0.01452197239306021]     Function evaluation: 0.0002767796831490976
+Iteration: 94410     Current best unit: [-0.012716376478170952, -0.008033573415881092]     Function evaluation: 0.0002264536129719663
+Iteration: 95805     Current best unit: [-0.0038413316648826853, -0.014233404373681384]     Function evaluation: 0.00021754713419336325
+Iteration: 96235     Current best unit: [-0.004449540316601093, -0.013634921188442835]     Function evaluation: 0.00020590100456135962
+Iteration: 96920     Current best unit: [-0.008202521835947493, -0.011055843662862374]     Function evaluation: 0.0001896905133019211
+Iteration: 97269     Current best unit: [-0.0055300423295474525, -0.012068442967853189]     Function evaluation: 0.0001763944984229937
+Iteration: 97902     Current best unit: [-0.010415789186735165, -0.007723783242732664]     Function evaluation: 0.00016830415677926425
+Iteration: 98652     Current best unit: [-0.012313832252811196, -0.003848770990738928]     Function evaluation: 0.00016660065667223334
+Iteration: 98851     Current best unit: [-0.004837024835158235, -0.011849068298982964]     Function evaluation: 0.00016395202936037023
+Iteration: 99165     Current best unit: [-0.010048687605953585, -0.007613985057370503]     Function evaluation: 0.0001590993679775332
+Iteration: 99631     Current best unit: [-0.009409494143365917, -0.007904455780845334]     Function evaluation: 0.0001511623724881339
+
+
+Iteration: 1     Current best unit: [-0.5538644098320731, 15.819151448750077]     Function evaluation: 0.18958077393203554
+Iteration: 2625     Current best unit: [4.582640012354085, 14.948125135489661]     Function evaluation: 0.18058794389694072
+Iteration: 4042     Current best unit: [12.45997698525158, -2.9107760547213175]     Function evaluation: 0.16887095190342938
+Iteration: 4385     Current best unit: [-2.288757752195232, -1.4791202267112413]     Function evaluation: 0.1686002103230082
+Iteration: 5209     Current best unit: [-5.4918201035628575, -11.4733904536313]     Function evaluation: 0.1469203067778207
+Iteration: 6450     Current best unit: [9.13170560503123, -3.013710290506698]     Function evaluation: 0.11137678059785444
+Iteration: 7211     Current best unit: [-3.032988013088996, 1.4884867441447014]     Function evaluation: 0.06509161481371084
+Iteration: 11072     Current best unit: [1.534893859463729, 2.596079462492625]     Function evaluation: 0.024411577728854272
+Iteration: 12957     Current best unit: [-0.06900642480340835, -3.1537258030944315]     Function evaluation: 0.00996700372070397
+Iteration: 19939     Current best unit: [-2.898721595443429, 1.2293064226380617]     Function evaluation: 0.0098166409606259
+Iteration: 22728     Current best unit: [-3.061442437217986, -0.7201679887759889]     Function evaluation: 0.009757666834327272
+Iteration: 23240     Current best unit: [-2.850898851302098, 1.3159474632469714]     Function evaluation: 0.009718042727270504
+Iteration: 27116     Current best unit: [-3.0196145903833083, 0.857939663623103]     Function evaluation: 0.00971631756352892
+
+
+Iteration: 1     Current best unit: [-11.960562376075877, 45.18376770740464]     Function evaluation: 0.46453019202708046
+Iteration: 41     Current best unit: [40.633534937757716, 2.7662103397657853]     Function evaluation: 0.43106993430397833
+Iteration: 109     Current best unit: [5.160374853248257, 24.704857135910373]     Function evaluation: 0.31753124034694
+Iteration: 147     Current best unit: [24.420934821377998, -6.095131675470668]     Function evaluation: 0.31314593301501836
+Iteration: 611     Current best unit: [10.837045789492137, 15.27531738410113]     Function evaluation: 0.23388895414453792
+Iteration: 809     Current best unit: [5.411094130496966, 7.672310611154282]     Function evaluation: 0.07883324229833122
+Iteration: 1011     Current best unit: [0.7685776925061099, 6.4251759830226245]     Function evaluation: 0.07149232032253672
+Iteration: 1131     Current best unit: [0.6457803652943213, 6.374454246825512]     Function evaluation: 0.05274587956965693
+Iteration: 1181     Current best unit: [-2.246637744408571, 5.745497310007879]     Function evaluation: 0.048011456189134105
+Iteration: 1464     Current best unit: [-1.6848967648694453, 5.972114072218973]     Function evaluation: 0.04201165923336769
+Iteration: 1501     Current best unit: [-2.5481521101248976, 5.72872570261202]     Function evaluation: 0.03727301958414031
+Iteration: 1621     Current best unit: [-1.1454270015715171, 6.171888830152268]     Function evaluation: 0.037224091065672815
+Iteration: 8732     Current best unit: [-1.8788462118650286, 2.6719448514072255]     Function evaluation: 0.02567109451640054
+Iteration: 9823     Current best unit: [-1.8790243185701343, -2.5020776137695506]     Function evaluation: 0.009802783327701903
+Iteration: 13695     Current best unit: [-1.8787747467303813, 2.52286016288502]     Function evaluation: 0.009765196327231551
+Iteration: 14566     Current best unit: [-1.8848533678795827, 2.506555995874392]     Function evaluation: 0.00972121826893002
+Iteration: 14672     Current best unit: [-1.888249942004631, 2.505358015544609]     Function evaluation: 0.009717418531288824
+Iteration: 14839     Current best unit: [-1.8589615582097179, 2.5290987559684024]     Function evaluation: 0.009716008683333333
+
+
+Iteration: 1     Current best unit: [10.575984171857321, -7.066865507159918]     Function evaluation: 0.14685681972316678
+Iteration: 426     Current best unit: [9.358941323129542, -8.405417473068432]     Function evaluation: 0.12741512180242465
+Iteration: 1139     Current best unit: [10.865673836329574, -6.300668268989747]     Function evaluation: 0.12700757702647614
+Iteration: 1278     Current best unit: [12.091605751375505, -3.366356281767393]     Function evaluation: 0.12700283743419988
+Iteration: 1460     Current best unit: [-3.313011175568924, -5.173862424341088]     Function evaluation: 0.053663489516684426
+Iteration: 3447     Current best unit: [4.108602554997674, -4.578799550788471]     Function evaluation: 0.05170816235095754
+Iteration: 4843     Current best unit: [-3.4500024069579096, -5.354819010035563]     Function evaluation: 0.04517334732620759
+Iteration: 5756     Current best unit: [1.7974739048379018, -2.4643736272424306]     Function evaluation: 0.017342681423108797
+Iteration: 8466     Current best unit: [1.7248790571943413, 2.573049900103385]     Function evaluation: 0.011347654058984469
+Iteration: 12430     Current best unit: [2.139931421589246, -2.28275708192556]     Function evaluation: 0.009805275264621438
+Iteration: 13406     Current best unit: [1.982435938331702, -2.4227719293786065]     Function evaluation: 0.009778880874534712
+Iteration: 13471     Current best unit: [2.26066150980349, -2.1789664280179895]     Function evaluation: 0.009717666167657568
+Iteration: 13478     Current best unit: [2.2595553301936184, -2.1776707042518844]     Function evaluation: 0.00971603567405327
+
+
+Iteration: 1     Current best unit: [12.190742549383685, -9.984387951073593]     Function evaluation: 0.18070928733196262
+Iteration: 601     Current best unit: [-7.564682235458967, 10.119043993055765]     Function evaluation: 0.13157672289943473
+Iteration: 769     Current best unit: [-2.8967102173315187, 5.770893347206773]     Function evaluation: 0.06681794386436496
+Iteration: 1223     Current best unit: [-2.1720679956104925, 2.0033985035933535]     Function evaluation: 0.042472611651052206
+Iteration: 3186     Current best unit: [5.126763281187547, 3.6545034207645957]     Function evaluation: 0.03755183363196252
+Iteration: 3732     Current best unit: [0.8906833833513256, 2.937901979330192]     Function evaluation: 0.014321851356508264
+Iteration: 4866     Current best unit: [0.5437369571466326, 3.148269003169187]     Function evaluation: 0.012832709110122242
+Iteration: 5092     Current best unit: [1.0399689190237347, 2.97828427600353]     Function evaluation: 0.009971824132756213
+Iteration: 5488     Current best unit: [1.377043740088964, 2.8284229983689384]     Function evaluation: 0.00976881593676343
+Iteration: 5689     Current best unit: [2.313337018634795, 2.113673602272103]     Function evaluation: 0.009739800639642637
+Iteration: 5862     Current best unit: [0.9041885291166084, 3.0048394500125286]     Function evaluation: 0.009716209892588146
+
+
+Iteration: 1     Current best unit: [0.08012491931397392, -22.248135698248483]     Function evaluation: 0.3052209865432509
+Iteration: 534     Current best unit: [14.77302429970797, 5.870951465161481]     Function evaluation: 0.20385296261989833
+Iteration: 990     Current best unit: [2.9465370974417127, 15.582688044336372]     Function evaluation: 0.19518834703055377
+Iteration: 1243     Current best unit: [-12.247680482338438, 2.1724530265154556]     Function evaluation: 0.13714385688679703
+Iteration: 5868     Current best unit: [-1.1781443511308871, 2.961594013309176]     Function evaluation: 0.012054804384900086
+Iteration: 7065     Current best unit: [3.0929517615869404, -0.21014271550590014]     Function evaluation: 0.01116320825359468
+Iteration: 8066     Current best unit: [2.0949578653784116, 2.3455700812365246]     Function evaluation: 0.009756606504306486
+Iteration: 17185     Current best unit: [2.992406018762694, -0.9453861886667236]     Function evaluation: 0.009715994059420863
+Iteration: 23316     Current best unit: [0.03805408178337416, 0.06075302234245328]     Function evaluation: 0.00513533191464316
+Iteration: 44265     Current best unit: [-0.03269034159629242, -0.019847034105424655]     Function evaluation: 0.0014633085890290998
+Iteration: 53807     Current best unit: [0.0204898939841848, 0.02538271897913802]     Function evaluation: 0.001064802635232176
+Iteration: 72759     Current best unit: [0.014399695878708485, -0.028426372303130273]     Function evaluation: 0.0010160795914226917
+Iteration: 73055     Current best unit: [0.015922064400911193, 0.01602707750247845]     Function evaluation: 0.0005108023830117103
+
+
+Iteration: 1     Current best unit: [45.888297553982156, -8.691957487305423]     Function evaluation: 0.4669987653216424
+Iteration: 183     Current best unit: [12.772441829195813, 2.356292712969797]     Function evaluation: 0.2565303991249843
+Iteration: 293     Current best unit: [4.6297482363925795, 11.62075726233278]     Function evaluation: 0.12860408902099957
+Iteration: 958     Current best unit: [12.42939352292244, 1.609704544616884]     Function evaluation: 0.1273631501854613
+Iteration: 1073     Current best unit: [11.036818623774364, -5.995188262849986]     Function evaluation: 0.12700547506073828
+Iteration: 1107     Current best unit: [9.368088137321745, 1.814159612948192]     Function evaluation: 0.09148725555330378
+Iteration: 1362     Current best unit: [4.095059210258063, -4.481768142729263]     Function evaluation: 0.0762085336338083
+Iteration: 3347     Current best unit: [-2.1649247105122225, 2.106542758449368]     Function evaluation: 0.023291252843636978
+Iteration: 4553     Current best unit: [2.1730214314967897, 2.3887086675429985]     Function evaluation: 0.017771090860071892
+Iteration: 4554     Current best unit: [-2.345575728650198, 2.1040811941576925]     Function evaluation: 0.009869947446146055
+Iteration: 4735     Current best unit: [-2.1160237583865973, 2.3089927619376525]     Function evaluation: 0.009758046684711363
+Iteration: 4764     Current best unit: [-2.4473145820540836, 1.9709054574889158]     Function evaluation: 0.009729921018165277
+Iteration: 4979     Current best unit: [-3.079592351138687, 0.6030643914323897]     Function evaluation: 0.00971606700718125
+
+
+Iteration: 1     Current best unit: [-0.2850260437044625, 40.44898140695065]     Function evaluation: 0.4489246859719007
+Iteration: 395     Current best unit: [-12.18275136819453, -1.2234670768327618]     Function evaluation: 0.19776586108179833
+Iteration: 1285     Current best unit: [0.7834255584077141, 2.6586635533537546]     Function evaluation: 0.13631162436401578
+Iteration: 1495     Current best unit: [-5.220732304642908, 3.9297057397981923]     Function evaluation: 0.09695530256062768
+Iteration: 2088     Current best unit: [-4.943291052941267, 4.019473600846528]     Function evaluation: 0.045384874093134964
+Iteration: 2591     Current best unit: [-3.258525636545407, 5.303538150412357]     Function evaluation: 0.039783170097472564
+Iteration: 2750     Current best unit: [0.21600605897203184, 3.0896516913311904]     Function evaluation: 0.01138907510194731
+Iteration: 2763     Current best unit: [-1.9701435859716527, 2.452322837579301]     Function evaluation: 0.009766834986242257
+Iteration: 2903     Current best unit: [-2.466603635772714, -1.9472033337504349]     Function evaluation: 0.009732274981768707
+Iteration: 8736     Current best unit: [-1.5591974902555255, 2.727097088036476]     Function evaluation: 0.00972403526552601
+Iteration: 8920     Current best unit: [-1.6747624585648597, 2.657050030375042]     Function evaluation: 0.009721257795547111
+Iteration: 8946     Current best unit: [-1.4106318766725627, 2.8017195026544894]     Function evaluation: 0.009718696070459443
+Iteration: 8974     Current best unit: [-2.2146483849060115, 2.224835727852242]     Function evaluation: 0.009716408538656629
+
+
+Iteration: 1     Current best unit: [10.705921780494343, -5.150162369848978]     Function evaluation: 0.42424297193025606
+Iteration: 13     Current best unit: [21.250200044673576, 27.137284066911363]     Function evaluation: 0.3972492832311486
+Iteration: 1042     Current best unit: [10.145300650904446, -16.565245668240493]     Function evaluation: 0.39259774998402897
+Iteration: 1149     Current best unit: [14.167563948631564, -13.216560437948566]     Function evaluation: 0.36877014432135724
+Iteration: 1641     Current best unit: [19.072214262097685, -2.4987447585227187]     Function evaluation: 0.3089896451249157
+Iteration: 1789     Current best unit: [-17.355383441517343, -13.69916878078623]     Function evaluation: 0.280846087872209
+Iteration: 2189     Current best unit: [-18.473310318769553, 2.0784858075647037]     Function evaluation: 0.26026327493478774
+Iteration: 2252     Current best unit: [10.54499127836929, -6.538106891910286]     Function evaluation: 0.1433261794725963
+Iteration: 3475     Current best unit: [-6.745167158714644, -6.577852938009958]     Function evaluation: 0.07821390680005685
+Iteration: 3968     Current best unit: [2.666281543495323, -1.2737601923774209]     Function evaluation: 0.042470379761806565
+Iteration: 4058     Current best unit: [2.984079094585374, 1.2357325100593322]     Function evaluation: 0.017875860313251668
+Iteration: 7011     Current best unit: [-2.9143446339984957, -1.0805041596840703]     Function evaluation: 0.010616242975779344
+Iteration: 7514     Current best unit: [2.4856869320245685, -1.8683914258058394]     Function evaluation: 0.01053560846032936
+Iteration: 7746     Current best unit: [2.556999551727659, -1.8433625891159833]     Function evaluation: 0.009899949090450721
+Iteration: 7772     Current best unit: [2.088698917981239, -2.3287095013753465]     Function evaluation: 0.009820013553248963
+Iteration: 7940     Current best unit: [2.670181656308236, -1.6476937423872775]     Function evaluation: 0.009716615745340329
+
+
+Iteration: 1     Current best unit: [-21.58931888982927, -2.969515126522481]     Function evaluation: 0.28804270362039924
+Iteration: 446     Current best unit: [-9.578884176725765, 19.781740762534817]     Function evaluation: 0.2727441056120919
+Iteration: 3577     Current best unit: [-12.512431205731644, 2.8943323181528635]     Function evaluation: 0.1864582397767352
+Iteration: 7075     Current best unit: [-11.635610340633441, 4.062651581853556]     Function evaluation: 0.16641705644870775
+Iteration: 7944     Current best unit: [9.625329420130468, 0.5642541502791354]     Function evaluation: 0.12027150362401046
+Iteration: 8503     Current best unit: [4.286810055997843, 4.6989548652025945]     Function evaluation: 0.04364927760742787
+Iteration: 9982     Current best unit: [3.069828645164863, 0.9298961487914639]     Function evaluation: 0.014391534350459423
+Iteration: 12187     Current best unit: [2.2652834901521146, 2.2452772324838532]     Function evaluation: 0.01226510485428084
+Iteration: 24619     Current best unit: [2.819524254144687, -1.442169311712386]     Function evaluation: 0.010510804024263853
+Iteration: 25600     Current best unit: [2.6283285469399074, -1.7224122472223464]     Function evaluation: 0.009731123416824472
+Iteration: 27703     Current best unit: [0.6679777212575433, -3.067265949492971]     Function evaluation: 0.009716355043063174
+Iteration: 87219     Current best unit: [-0.04280631659623424, -0.000987434628022003]     Function evaluation: 0.0018340622761985892
+Iteration: 88001     Current best unit: [-0.007780318588345381, -0.0012310828409212342]     Function evaluation: 6.210968016817642e-05
+
+
+Iteration: 1     Current best unit: [-1.0998692636807732, -3.66585124047549]     Function evaluation: 0.40380119697679184
+Iteration: 161     Current best unit: [7.33694631083997, 13.667423162223088]     Function evaluation: 0.19972292773719208
+Iteration: 528     Current best unit: [-4.5213734384510325, -4.230779126620301]     Function evaluation: 0.04391573385033737
+Iteration: 951     Current best unit: [-2.931300248122585, -5.6090830885624445]     Function evaluation: 0.03969654173632897
+Iteration: 2045     Current best unit: [-2.029846492079204, -5.9520319488639295]     Function evaluation: 0.03734638725847561
+Iteration: 2055     Current best unit: [-3.3397260074779602, -5.327748742308365]     Function evaluation: 0.03733276761324694
+Iteration: 2241     Current best unit: [-5.237355895939634, -3.4612768509922724]     Function evaluation: 0.0372244297070598
+
+
+Iteration: 1     Current best unit: [14.960243642234076, 20.759141464224797]     Function evaluation: 0.3880323665690564
+Iteration: 147     Current best unit: [-2.6266438537785533, 12.167693488657882]     Function evaluation: 0.1356232597504261
+Iteration: 524     Current best unit: [-9.405140249369913, 2.283546269920599]     Function evaluation: 0.1346111009867928
+Iteration: 871     Current best unit: [-9.319128559239125, -0.8425479446160136]     Function evaluation: 0.08112863352553545
+Iteration: 928     Current best unit: [-8.898827152341442, 3.0112227094782806]     Function evaluation: 0.07858450172497738
+Iteration: 1672     Current best unit: [-8.633859074696545, -3.7979998211131076]     Function evaluation: 0.07840996934842687
+Iteration: 1782     Current best unit: [-3.277264915002925, 0.26991755034919684]     Function evaluation: 0.031572134686854436
+Iteration: 4471     Current best unit: [-0.4548706372877762, -3.193465725593112]     Function evaluation: 0.017157479833272093
+Iteration: 4741     Current best unit: [-0.05351028675151914, -3.1544762057534164]     Function evaluation: 0.009981306981241056
+Iteration: 4914     Current best unit: [0.2688798300352033, -3.120145895191123]     Function evaluation: 0.00976096507343116
+Iteration: 5068     Current best unit: [0.20666008213603004, -3.133180558795128]     Function evaluation: 0.009718129680011123
+Iteration: 5602     Current best unit: [0.3538290401113253, -3.1177392276653872]     Function evaluation: 0.009716435797392398
+
+
+Iteration: 1     Current best unit: [-10.239351950701312, -11.90880512094266]     Function evaluation: 0.17828886960074464
+Iteration: 2433     Current best unit: [-8.175927976290305, -9.391565860701355]     Function evaluation: 0.13502117306277367
+Iteration: 2991     Current best unit: [9.394854308350865, -0.12747965460536648]     Function evaluation: 0.07854111398873875
+Iteration: 6705     Current best unit: [5.257664418143658, -3.046082386403981]     Function evaluation: 0.07420895435493491
+Iteration: 7869     Current best unit: [5.797775028657524, -2.6662123094776495]     Function evaluation: 0.04724998496105015
+Iteration: 8497     Current best unit: [4.865505731705697, -3.8209052796107703]     Function evaluation: 0.0448314759865332
+Iteration: 9034     Current best unit: [-0.5100408866610859, -3.1690788996427237]     Function evaluation: 0.014704932216592914
+Iteration: 11387     Current best unit: [0.8083862950776971, -3.040925363917843]     Function evaluation: 0.009779597291457498
+Iteration: 13365     Current best unit: [-2.338838541474111, -2.0889163384665066]     Function evaluation: 0.009722575013464518
+Iteration: 15066     Current best unit: [2.829362535984316, 1.3597671921659111]     Function evaluation: 0.009716343440399566
+Iteration: 30677     Current best unit: [0.00028713788795187156, 0.08308501225880181]     Function evaluation: 0.006894139634390561
+
+
+Iteration: 1     Current best unit: [-9.10093709349762, -8.283963497832936]     Function evaluation: 0.17266224913889855
+Iteration: 239     Current best unit: [-0.7242411132592643, 2.815462383817789]     Function evaluation: 0.061421231409001575
+Iteration: 11851     Current best unit: [-0.5865379557432968, -3.107121598075583]     Function evaluation: 0.0102583776490352
+Iteration: 16696     Current best unit: [0.0936694615715612, -3.1414161843416473]     Function evaluation: 0.009734291429479791
+Iteration: 22120     Current best unit: [-2.6764094787741888, -1.6382551470190818]     Function evaluation: 0.009716140046228616
+
+

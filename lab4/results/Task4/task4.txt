@@ -1,0 +1,34 @@
+### Function 6 parameters optimisation ###
+Crossover: Arithmetic crossover
+Mutation: Uniform mutation
+Algorithm run: 10 times
+
+### Mutation probability optimisation ###
+Probability: 0.1
+Median: 0.005255430798831645
+
+Probability: 0.3
+Median: 0.007214140383304146
+
+Probability: 0.6
+Median: 0.009715911116646964
+
+Probability: 0.9
+Median: 0.009725215629951961
+
+Best Mutation Probability Median is: 0.005255430798831645
+
+### Population size optimisation ###
+Population: 30
+Median: 0.009715909877514362
+
+Population: 50
+Median: 0.009715909877514362
+
+Population: 100
+Median: 0.009715909877514362
+
+Population: 200
+Median: 0.006519666388444728
+
+Best Population Size Median is: 0.006519666388444728
